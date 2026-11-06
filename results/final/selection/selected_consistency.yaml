@@ -1,0 +1,9 @@
+lambda: 7.5
+rho: 0.2
+mean_validation_score: 0.62641875
+mean_clean_accuracy: 0.6356
+mean_worst_padding_shifted_accuracy: 0.6172375000000001
+maximum_clean_accuracy_drop_pp: -2.0400000000000085
+minimum_effective_rank_retention: 9.187713200807096
+minimum_active_dimension_retention: 1.0
+required_boundary_extensions: []

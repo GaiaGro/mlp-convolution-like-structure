@@ -1,0 +1,4 @@
+epochs: 100
+mean_validation_score: 0.55049375
+best_observed_mean_validation_score: 0.55049375
+shorter_budget_tolerance: 0.0025

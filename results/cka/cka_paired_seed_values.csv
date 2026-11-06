@@ -1,0 +1,1751 @@
+seed,mlp_condition,cnn_condition,mlp_layer,cnn_layer,mlp_dimension,cnn_dimension,n_examples,cka
+43,baseline,baseline,Projection,Stem,512,64,10000,0.4288067439703523
+43,baseline,baseline,Projection,Stage 1,512,64,10000,0.39421247219645633
+43,baseline,baseline,Projection,Stage 2,512,128,10000,0.263029198951441
+43,baseline,baseline,Projection,Stage 3a,512,256,10000,0.29385540321087705
+43,baseline,baseline,Projection,Stage 3b,512,256,10000,0.2109589466318591
+43,baseline,baseline,Projection,Stage 4,512,384,10000,0.19298014845418357
+43,baseline,baseline,Projection,Global pool,512,384,10000,0.19298014845418357
+43,baseline,baseline,Block 1,Stem,512,64,10000,0.3583685626599414
+43,baseline,baseline,Block 1,Stage 1,512,64,10000,0.36696017668365133
+43,baseline,baseline,Block 1,Stage 2,512,128,10000,0.2928350598166138
+43,baseline,baseline,Block 1,Stage 3a,512,256,10000,0.35207747256099853
+43,baseline,baseline,Block 1,Stage 3b,512,256,10000,0.3514237836092708
+43,baseline,baseline,Block 1,Stage 4,512,384,10000,0.32958491415319396
+43,baseline,baseline,Block 1,Global pool,512,384,10000,0.32958491415319396
+43,baseline,baseline,Block 2,Stem,512,64,10000,0.2029574805841478
+43,baseline,baseline,Block 2,Stage 1,512,64,10000,0.24322247988778684
+43,baseline,baseline,Block 2,Stage 2,512,128,10000,0.24454430385920112
+43,baseline,baseline,Block 2,Stage 3a,512,256,10000,0.3251922814343069
+43,baseline,baseline,Block 2,Stage 3b,512,256,10000,0.46659757764575255
+43,baseline,baseline,Block 2,Stage 4,512,384,10000,0.45335769822454675
+43,baseline,baseline,Block 2,Global pool,512,384,10000,0.45335769822454675
+43,baseline,baseline,Block 3,Stem,512,64,10000,0.09296266805233429
+43,baseline,baseline,Block 3,Stage 1,512,64,10000,0.12364945137722616
+43,baseline,baseline,Block 3,Stage 2,512,128,10000,0.14206614814318
+43,baseline,baseline,Block 3,Stage 3a,512,256,10000,0.1986864128204435
+43,baseline,baseline,Block 3,Stage 3b,512,256,10000,0.3578039911412759
+43,baseline,baseline,Block 3,Stage 4,512,384,10000,0.40686238153930027
+43,baseline,baseline,Block 3,Global pool,512,384,10000,0.40686238153930027
+43,baseline,baseline,Output norm,Stem,512,64,10000,0.1404976182906228
+43,baseline,baseline,Output norm,Stage 1,512,64,10000,0.17414083342978715
+43,baseline,baseline,Output norm,Stage 2,512,128,10000,0.1845028051863487
+43,baseline,baseline,Output norm,Stage 3a,512,256,10000,0.24605190019312437
+43,baseline,baseline,Output norm,Stage 3b,512,256,10000,0.3628748915852802
+43,baseline,baseline,Output norm,Stage 4,512,384,10000,0.4283423233161998
+43,baseline,baseline,Output norm,Global pool,512,384,10000,0.4283423233161998
+43,baseline,augmentation,Projection,Stem,512,64,10000,0.4114461399699926
+43,baseline,augmentation,Projection,Stage 1,512,64,10000,0.3488675609569115
+43,baseline,augmentation,Projection,Stage 2,512,128,10000,0.24466994115909083
+43,baseline,augmentation,Projection,Stage 3a,512,256,10000,0.2657079321756406
+43,baseline,augmentation,Projection,Stage 3b,512,256,10000,0.1868720027090134
+43,baseline,augmentation,Projection,Stage 4,512,384,10000,0.16187001708572407
+43,baseline,augmentation,Projection,Global pool,512,384,10000,0.16187001708572407
+43,baseline,augmentation,Block 1,Stem,512,64,10000,0.35039056303135707
+43,baseline,augmentation,Block 1,Stage 1,512,64,10000,0.34332095450598005
+43,baseline,augmentation,Block 1,Stage 2,512,128,10000,0.28345386916147025
+43,baseline,augmentation,Block 1,Stage 3a,512,256,10000,0.3302042729452349
+43,baseline,augmentation,Block 1,Stage 3b,512,256,10000,0.3262309122353876
+43,baseline,augmentation,Block 1,Stage 4,512,384,10000,0.2861142135270957
+43,baseline,augmentation,Block 1,Global pool,512,384,10000,0.2861142135270957
+43,baseline,augmentation,Block 2,Stem,512,64,10000,0.19904922208376116
+43,baseline,augmentation,Block 2,Stage 1,512,64,10000,0.24269991915700884
+43,baseline,augmentation,Block 2,Stage 2,512,128,10000,0.2409999675951552
+43,baseline,augmentation,Block 2,Stage 3a,512,256,10000,0.31944376442876926
+43,baseline,augmentation,Block 2,Stage 3b,512,256,10000,0.474602032424364
+43,baseline,augmentation,Block 2,Stage 4,512,384,10000,0.4181395272201874
+43,baseline,augmentation,Block 2,Global pool,512,384,10000,0.4181395272201874
+43,baseline,augmentation,Block 3,Stem,512,64,10000,0.08970058846337228
+43,baseline,augmentation,Block 3,Stage 1,512,64,10000,0.12331321676691666
+43,baseline,augmentation,Block 3,Stage 2,512,128,10000,0.13844759136945972
+43,baseline,augmentation,Block 3,Stage 3a,512,256,10000,0.21435859793019907
+43,baseline,augmentation,Block 3,Stage 3b,512,256,10000,0.4144919141901282
+43,baseline,augmentation,Block 3,Stage 4,512,384,10000,0.39685056733322943
+43,baseline,augmentation,Block 3,Global pool,512,384,10000,0.39685056733322943
+43,baseline,augmentation,Output norm,Stem,512,64,10000,0.13516010702811446
+43,baseline,augmentation,Output norm,Stage 1,512,64,10000,0.1708439813420491
+43,baseline,augmentation,Output norm,Stage 2,512,128,10000,0.18395253334703887
+43,baseline,augmentation,Output norm,Stage 3a,512,256,10000,0.25081734096329744
+43,baseline,augmentation,Output norm,Stage 3b,512,256,10000,0.4006746930462927
+43,baseline,augmentation,Output norm,Stage 4,512,384,10000,0.40977009237253376
+43,baseline,augmentation,Output norm,Global pool,512,384,10000,0.40977009237253376
+43,exposure,baseline,Projection,Stem,512,64,10000,0.4612087505847507
+43,exposure,baseline,Projection,Stage 1,512,64,10000,0.42546207927917945
+43,exposure,baseline,Projection,Stage 2,512,128,10000,0.28103740586094805
+43,exposure,baseline,Projection,Stage 3a,512,256,10000,0.30923551719642556
+43,exposure,baseline,Projection,Stage 3b,512,256,10000,0.21619883136419243
+43,exposure,baseline,Projection,Stage 4,512,384,10000,0.19661884295869297
+43,exposure,baseline,Projection,Global pool,512,384,10000,0.19661884295869297
+43,exposure,baseline,Block 1,Stem,512,64,10000,0.3987629657010141
+43,exposure,baseline,Block 1,Stage 1,512,64,10000,0.40142882422044174
+43,exposure,baseline,Block 1,Stage 2,512,128,10000,0.3077720724615289
+43,exposure,baseline,Block 1,Stage 3a,512,256,10000,0.3608651229416987
+43,exposure,baseline,Block 1,Stage 3b,512,256,10000,0.33335712123899186
+43,exposure,baseline,Block 1,Stage 4,512,384,10000,0.3067336748369994
+43,exposure,baseline,Block 1,Global pool,512,384,10000,0.3067336748369994
+43,exposure,baseline,Block 2,Stem,512,64,10000,0.2710403685987124
+43,exposure,baseline,Block 2,Stage 1,512,64,10000,0.305402486092397
+43,exposure,baseline,Block 2,Stage 2,512,128,10000,0.2847474329297272
+43,exposure,baseline,Block 2,Stage 3a,512,256,10000,0.37340784142782535
+43,exposure,baseline,Block 2,Stage 3b,512,256,10000,0.4892064103015201
+43,exposure,baseline,Block 2,Stage 4,512,384,10000,0.46243673367457583
+43,exposure,baseline,Block 2,Global pool,512,384,10000,0.46243673367457583
+43,exposure,baseline,Block 3,Stem,512,64,10000,0.08322906886468609
+43,exposure,baseline,Block 3,Stage 1,512,64,10000,0.1131396609365045
+43,exposure,baseline,Block 3,Stage 2,512,128,10000,0.1346185110738538
+43,exposure,baseline,Block 3,Stage 3a,512,256,10000,0.20319926388969597
+43,exposure,baseline,Block 3,Stage 3b,512,256,10000,0.40579812036547497
+43,exposure,baseline,Block 3,Stage 4,512,384,10000,0.4284727829923879
+43,exposure,baseline,Block 3,Global pool,512,384,10000,0.4284727829923879
+43,exposure,baseline,Output norm,Stem,512,64,10000,0.15479291768198683
+43,exposure,baseline,Output norm,Stage 1,512,64,10000,0.19076779966518465
+43,exposure,baseline,Output norm,Stage 2,512,128,10000,0.2032054041192059
+43,exposure,baseline,Output norm,Stage 3a,512,256,10000,0.2833712830960211
+43,exposure,baseline,Output norm,Stage 3b,512,256,10000,0.43115915250914943
+43,exposure,baseline,Output norm,Stage 4,512,384,10000,0.49260519633550237
+43,exposure,baseline,Output norm,Global pool,512,384,10000,0.49260519633550237
+43,exposure,augmentation,Projection,Stem,512,64,10000,0.4445115738401172
+43,exposure,augmentation,Projection,Stage 1,512,64,10000,0.3768693312017554
+43,exposure,augmentation,Projection,Stage 2,512,128,10000,0.26238813797944077
+43,exposure,augmentation,Projection,Stage 3a,512,256,10000,0.281330393046804
+43,exposure,augmentation,Projection,Stage 3b,512,256,10000,0.19032002745965487
+43,exposure,augmentation,Projection,Stage 4,512,384,10000,0.1645745344597985
+43,exposure,augmentation,Projection,Global pool,512,384,10000,0.1645745344597985
+43,exposure,augmentation,Block 1,Stem,512,64,10000,0.3912390461319848
+43,exposure,augmentation,Block 1,Stage 1,512,64,10000,0.37367644479893813
+43,exposure,augmentation,Block 1,Stage 2,512,128,10000,0.297983273867097
+43,exposure,augmentation,Block 1,Stage 3a,512,256,10000,0.3403829699983644
+43,exposure,augmentation,Block 1,Stage 3b,512,256,10000,0.3055491085302926
+43,exposure,augmentation,Block 1,Stage 4,512,384,10000,0.26538109544577
+43,exposure,augmentation,Block 1,Global pool,512,384,10000,0.26538109544577
+43,exposure,augmentation,Block 2,Stem,512,64,10000,0.2683686300172747
+43,exposure,augmentation,Block 2,Stage 1,512,64,10000,0.3022990840250292
+43,exposure,augmentation,Block 2,Stage 2,512,128,10000,0.28558150188599957
+43,exposure,augmentation,Block 2,Stage 3a,512,256,10000,0.3636309628892788
+43,exposure,augmentation,Block 2,Stage 3b,512,256,10000,0.4810860209136513
+43,exposure,augmentation,Block 2,Stage 4,512,384,10000,0.4255535846781853
+43,exposure,augmentation,Block 2,Global pool,512,384,10000,0.4255535846781853
+43,exposure,augmentation,Block 3,Stem,512,64,10000,0.08205533201335712
+43,exposure,augmentation,Block 3,Stage 1,512,64,10000,0.11772138321527224
+43,exposure,augmentation,Block 3,Stage 2,512,128,10000,0.13119600315086422
+43,exposure,augmentation,Block 3,Stage 3a,512,256,10000,0.22095391338195558
+43,exposure,augmentation,Block 3,Stage 3b,512,256,10000,0.47140011424342537
+43,exposure,augmentation,Block 3,Stage 4,512,384,10000,0.4335700134857257
+43,exposure,augmentation,Block 3,Global pool,512,384,10000,0.4335700134857257
+43,exposure,augmentation,Output norm,Stem,512,64,10000,0.1499260313200904
+43,exposure,augmentation,Output norm,Stage 1,512,64,10000,0.1900809272992053
+43,exposure,augmentation,Output norm,Stage 2,512,128,10000,0.20477140340421643
+43,exposure,augmentation,Output norm,Stage 3a,512,256,10000,0.29035615644266904
+43,exposure,augmentation,Output norm,Stage 3b,512,256,10000,0.47529795928814367
+43,exposure,augmentation,Output norm,Stage 4,512,384,10000,0.48317333486884695
+43,exposure,augmentation,Output norm,Global pool,512,384,10000,0.48317333486884695
+43,consistency,baseline,Projection,Stem,512,64,10000,0.5059324000595911
+43,consistency,baseline,Projection,Stage 1,512,64,10000,0.46571377470635433
+43,consistency,baseline,Projection,Stage 2,512,128,10000,0.3053799850799319
+43,consistency,baseline,Projection,Stage 3a,512,256,10000,0.33281757551401703
+43,consistency,baseline,Projection,Stage 3b,512,256,10000,0.22952788108770322
+43,consistency,baseline,Projection,Stage 4,512,384,10000,0.2075757568339255
+43,consistency,baseline,Projection,Global pool,512,384,10000,0.2075757568339255
+43,consistency,baseline,Block 1,Stem,512,64,10000,0.4098515938876236
+43,consistency,baseline,Block 1,Stage 1,512,64,10000,0.4178383975321681
+43,consistency,baseline,Block 1,Stage 2,512,128,10000,0.3207996238532708
+43,consistency,baseline,Block 1,Stage 3a,512,256,10000,0.37279455850502846
+43,consistency,baseline,Block 1,Stage 3b,512,256,10000,0.3447115395134145
+43,consistency,baseline,Block 1,Stage 4,512,384,10000,0.31316464275431255
+43,consistency,baseline,Block 1,Global pool,512,384,10000,0.31316464275431255
+43,consistency,baseline,Block 2,Stem,512,64,10000,0.2447866398046937
+43,consistency,baseline,Block 2,Stage 1,512,64,10000,0.2834561579775415
+43,consistency,baseline,Block 2,Stage 2,512,128,10000,0.2657976922363138
+43,consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3495784637265758
+43,consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4720937756695206
+43,consistency,baseline,Block 2,Stage 4,512,384,10000,0.447862098067107
+43,consistency,baseline,Block 2,Global pool,512,384,10000,0.447862098067107
+43,consistency,baseline,Block 3,Stem,512,64,10000,0.11606370122501698
+43,consistency,baseline,Block 3,Stage 1,512,64,10000,0.13603002563131059
+43,consistency,baseline,Block 3,Stage 2,512,128,10000,0.12354005430202417
+43,consistency,baseline,Block 3,Stage 3a,512,256,10000,0.16288294387060173
+43,consistency,baseline,Block 3,Stage 3b,512,256,10000,0.22111860809326409
+43,consistency,baseline,Block 3,Stage 4,512,384,10000,0.2584869223673108
+43,consistency,baseline,Block 3,Global pool,512,384,10000,0.2584869223673108
+43,consistency,baseline,Output norm,Stem,512,64,10000,0.15948444785634544
+43,consistency,baseline,Output norm,Stage 1,512,64,10000,0.1835429866114222
+43,consistency,baseline,Output norm,Stage 2,512,128,10000,0.15610534806458085
+43,consistency,baseline,Output norm,Stage 3a,512,256,10000,0.19308003843683014
+43,consistency,baseline,Output norm,Stage 3b,512,256,10000,0.21676269494458206
+43,consistency,baseline,Output norm,Stage 4,512,384,10000,0.24617686864707874
+43,consistency,baseline,Output norm,Global pool,512,384,10000,0.24617686864707874
+43,consistency,augmentation,Projection,Stem,512,64,10000,0.4879432535689613
+43,consistency,augmentation,Projection,Stage 1,512,64,10000,0.41100134118391507
+43,consistency,augmentation,Projection,Stage 2,512,128,10000,0.28402350871471094
+43,consistency,augmentation,Projection,Stage 3a,512,256,10000,0.3012512999581544
+43,consistency,augmentation,Projection,Stage 3b,512,256,10000,0.20129701351505586
+43,consistency,augmentation,Projection,Stage 4,512,384,10000,0.17392141974586314
+43,consistency,augmentation,Projection,Global pool,512,384,10000,0.17392141974586314
+43,consistency,augmentation,Block 1,Stem,512,64,10000,0.4054126343637574
+43,consistency,augmentation,Block 1,Stage 1,512,64,10000,0.3900694563022596
+43,consistency,augmentation,Block 1,Stage 2,512,128,10000,0.3105211136113022
+43,consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.3541908367427289
+43,consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.31663172613677476
+43,consistency,augmentation,Block 1,Stage 4,512,384,10000,0.2727777928674951
+43,consistency,augmentation,Block 1,Global pool,512,384,10000,0.2727777928674951
+43,consistency,augmentation,Block 2,Stem,512,64,10000,0.24753235407226765
+43,consistency,augmentation,Block 2,Stage 1,512,64,10000,0.2863443184125071
+43,consistency,augmentation,Block 2,Stage 2,512,128,10000,0.2688321869100961
+43,consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3515517918304204
+43,consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4700031938266183
+43,consistency,augmentation,Block 2,Stage 4,512,384,10000,0.4108660770871825
+43,consistency,augmentation,Block 2,Global pool,512,384,10000,0.4108660770871825
+43,consistency,augmentation,Block 3,Stem,512,64,10000,0.12133654803951614
+43,consistency,augmentation,Block 3,Stage 1,512,64,10000,0.13835298466931073
+43,consistency,augmentation,Block 3,Stage 2,512,128,10000,0.1255406031502321
+43,consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.18317390189573046
+43,consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.24514199841995996
+43,consistency,augmentation,Block 3,Stage 4,512,384,10000,0.2412433694802969
+43,consistency,augmentation,Block 3,Global pool,512,384,10000,0.2412433694802969
+43,consistency,augmentation,Output norm,Stem,512,64,10000,0.16684002388155258
+43,consistency,augmentation,Output norm,Stage 1,512,64,10000,0.18191707119967254
+43,consistency,augmentation,Output norm,Stage 2,512,128,10000,0.15884195134706777
+43,consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.20910034867636185
+43,consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.23384200829556379
+43,consistency,augmentation,Output norm,Stage 4,512,384,10000,0.2336454451850977
+43,consistency,augmentation,Output norm,Global pool,512,384,10000,0.2336454451850977
+43,augmentation,baseline,Projection,Stem,512,64,10000,0.526233954896226
+43,augmentation,baseline,Projection,Stage 1,512,64,10000,0.49089159132351323
+43,augmentation,baseline,Projection,Stage 2,512,128,10000,0.32566458027404044
+43,augmentation,baseline,Projection,Stage 3a,512,256,10000,0.35488554182514787
+43,augmentation,baseline,Projection,Stage 3b,512,256,10000,0.23875966472005755
+43,augmentation,baseline,Projection,Stage 4,512,384,10000,0.213947723036614
+43,augmentation,baseline,Projection,Global pool,512,384,10000,0.213947723036614
+43,augmentation,baseline,Block 1,Stem,512,64,10000,0.45859822856356197
+43,augmentation,baseline,Block 1,Stage 1,512,64,10000,0.46940004306837957
+43,augmentation,baseline,Block 1,Stage 2,512,128,10000,0.3614152105526765
+43,augmentation,baseline,Block 1,Stage 3a,512,256,10000,0.41524041604976614
+43,augmentation,baseline,Block 1,Stage 3b,512,256,10000,0.3627305575678197
+43,augmentation,baseline,Block 1,Stage 4,512,384,10000,0.3250712884232158
+43,augmentation,baseline,Block 1,Global pool,512,384,10000,0.3250712884232158
+43,augmentation,baseline,Block 2,Stem,512,64,10000,0.36502229485576176
+43,augmentation,baseline,Block 2,Stage 1,512,64,10000,0.3993117942955335
+43,augmentation,baseline,Block 2,Stage 2,512,128,10000,0.34985063603912686
+43,augmentation,baseline,Block 2,Stage 3a,512,256,10000,0.43507583834503005
+43,augmentation,baseline,Block 2,Stage 3b,512,256,10000,0.49120180611989356
+43,augmentation,baseline,Block 2,Stage 4,512,384,10000,0.4542218077140512
+43,augmentation,baseline,Block 2,Global pool,512,384,10000,0.4542218077140512
+43,augmentation,baseline,Block 3,Stem,512,64,10000,0.1523341050389001
+43,augmentation,baseline,Block 3,Stage 1,512,64,10000,0.18658303276580845
+43,augmentation,baseline,Block 3,Stage 2,512,128,10000,0.2102921977657026
+43,augmentation,baseline,Block 3,Stage 3a,512,256,10000,0.3123158954029494
+43,augmentation,baseline,Block 3,Stage 3b,512,256,10000,0.5476422707156569
+43,augmentation,baseline,Block 3,Stage 4,512,384,10000,0.49658623149345316
+43,augmentation,baseline,Block 3,Global pool,512,384,10000,0.49658623149345316
+43,augmentation,baseline,Output norm,Stem,512,64,10000,0.28552680090303006
+43,augmentation,baseline,Output norm,Stage 1,512,64,10000,0.32250187134336916
+43,augmentation,baseline,Output norm,Stage 2,512,128,10000,0.32546821322821673
+43,augmentation,baseline,Output norm,Stage 3a,512,256,10000,0.45098787641199256
+43,augmentation,baseline,Output norm,Stage 3b,512,256,10000,0.6349086065440639
+43,augmentation,baseline,Output norm,Stage 4,512,384,10000,0.6064348133953248
+43,augmentation,baseline,Output norm,Global pool,512,384,10000,0.6064348133953248
+43,augmentation,augmentation,Projection,Stem,512,64,10000,0.5097590060320482
+43,augmentation,augmentation,Projection,Stage 1,512,64,10000,0.4403102200920227
+43,augmentation,augmentation,Projection,Stage 2,512,128,10000,0.3077146699093089
+43,augmentation,augmentation,Projection,Stage 3a,512,256,10000,0.325775806618884
+43,augmentation,augmentation,Projection,Stage 3b,512,256,10000,0.20756005053637064
+43,augmentation,augmentation,Projection,Stage 4,512,384,10000,0.1774921311028446
+43,augmentation,augmentation,Projection,Global pool,512,384,10000,0.1774921311028446
+43,augmentation,augmentation,Block 1,Stem,512,64,10000,0.4524186913636376
+43,augmentation,augmentation,Block 1,Stage 1,512,64,10000,0.4419043589318888
+43,augmentation,augmentation,Block 1,Stage 2,512,128,10000,0.35312931248513174
+43,augmentation,augmentation,Block 1,Stage 3a,512,256,10000,0.3970797234527242
+43,augmentation,augmentation,Block 1,Stage 3b,512,256,10000,0.32852266704453925
+43,augmentation,augmentation,Block 1,Stage 4,512,384,10000,0.2805671093437825
+43,augmentation,augmentation,Block 1,Global pool,512,384,10000,0.2805671093437825
+43,augmentation,augmentation,Block 2,Stem,512,64,10000,0.3617162635126844
+43,augmentation,augmentation,Block 2,Stage 1,512,64,10000,0.39130609005355665
+43,augmentation,augmentation,Block 2,Stage 2,512,128,10000,0.3500461252121343
+43,augmentation,augmentation,Block 2,Stage 3a,512,256,10000,0.4274321956989178
+43,augmentation,augmentation,Block 2,Stage 3b,512,256,10000,0.47012925057127425
+43,augmentation,augmentation,Block 2,Stage 4,512,384,10000,0.409374254598415
+43,augmentation,augmentation,Block 2,Global pool,512,384,10000,0.409374254598415
+43,augmentation,augmentation,Block 3,Stem,512,64,10000,0.1506406615548271
+43,augmentation,augmentation,Block 3,Stage 1,512,64,10000,0.20021377711711236
+43,augmentation,augmentation,Block 3,Stage 2,512,128,10000,0.21269397008857094
+43,augmentation,augmentation,Block 3,Stage 3a,512,256,10000,0.3045811690482781
+43,augmentation,augmentation,Block 3,Stage 3b,512,256,10000,0.5724827466054615
+43,augmentation,augmentation,Block 3,Stage 4,512,384,10000,0.49184896666624384
+43,augmentation,augmentation,Block 3,Global pool,512,384,10000,0.49184896666624384
+43,augmentation,augmentation,Output norm,Stem,512,64,10000,0.2769598361466563
+43,augmentation,augmentation,Output norm,Stage 1,512,64,10000,0.3291707833481571
+43,augmentation,augmentation,Output norm,Stage 2,512,128,10000,0.33428805524765565
+43,augmentation,augmentation,Output norm,Stage 3a,512,256,10000,0.43044434743663373
+43,augmentation,augmentation,Output norm,Stage 3b,512,256,10000,0.6323951314611291
+43,augmentation,augmentation,Output norm,Stage 4,512,384,10000,0.582398583852941
+43,augmentation,augmentation,Output norm,Global pool,512,384,10000,0.582398583852941
+43,augmentation_consistency,baseline,Projection,Stem,512,64,10000,0.5436578308737747
+43,augmentation_consistency,baseline,Projection,Stage 1,512,64,10000,0.5050955315269438
+43,augmentation_consistency,baseline,Projection,Stage 2,512,128,10000,0.33173563499415604
+43,augmentation_consistency,baseline,Projection,Stage 3a,512,256,10000,0.3603932666876734
+43,augmentation_consistency,baseline,Projection,Stage 3b,512,256,10000,0.24157259086077792
+43,augmentation_consistency,baseline,Projection,Stage 4,512,384,10000,0.2149014355670511
+43,augmentation_consistency,baseline,Projection,Global pool,512,384,10000,0.2149014355670511
+43,augmentation_consistency,baseline,Block 1,Stem,512,64,10000,0.41123776384413707
+43,augmentation_consistency,baseline,Block 1,Stage 1,512,64,10000,0.44130094505225304
+43,augmentation_consistency,baseline,Block 1,Stage 2,512,128,10000,0.35541464234202924
+43,augmentation_consistency,baseline,Block 1,Stage 3a,512,256,10000,0.41079988311757853
+43,augmentation_consistency,baseline,Block 1,Stage 3b,512,256,10000,0.38580200373111206
+43,augmentation_consistency,baseline,Block 1,Stage 4,512,384,10000,0.3385401109860318
+43,augmentation_consistency,baseline,Block 1,Global pool,512,384,10000,0.3385401109860318
+43,augmentation_consistency,baseline,Block 2,Stem,512,64,10000,0.2711516827729248
+43,augmentation_consistency,baseline,Block 2,Stage 1,512,64,10000,0.3232626002685651
+43,augmentation_consistency,baseline,Block 2,Stage 2,512,128,10000,0.3053972901057606
+43,augmentation_consistency,baseline,Block 2,Stage 3a,512,256,10000,0.38358193309230754
+43,augmentation_consistency,baseline,Block 2,Stage 3b,512,256,10000,0.47124097560513484
+43,augmentation_consistency,baseline,Block 2,Stage 4,512,384,10000,0.42785596581057367
+43,augmentation_consistency,baseline,Block 2,Global pool,512,384,10000,0.42785596581057367
+43,augmentation_consistency,baseline,Block 3,Stem,512,64,10000,0.17749656444767645
+43,augmentation_consistency,baseline,Block 3,Stage 1,512,64,10000,0.20981883967035744
+43,augmentation_consistency,baseline,Block 3,Stage 2,512,128,10000,0.19011007522793252
+43,augmentation_consistency,baseline,Block 3,Stage 3a,512,256,10000,0.2402049684166361
+43,augmentation_consistency,baseline,Block 3,Stage 3b,512,256,10000,0.2986796263847691
+43,augmentation_consistency,baseline,Block 3,Stage 4,512,384,10000,0.3206669601809905
+43,augmentation_consistency,baseline,Block 3,Global pool,512,384,10000,0.3206669601809905
+43,augmentation_consistency,baseline,Output norm,Stem,512,64,10000,0.1871060710127929
+43,augmentation_consistency,baseline,Output norm,Stage 1,512,64,10000,0.21893384664546042
+43,augmentation_consistency,baseline,Output norm,Stage 2,512,128,10000,0.19265968581867476
+43,augmentation_consistency,baseline,Output norm,Stage 3a,512,256,10000,0.24051414337398416
+43,augmentation_consistency,baseline,Output norm,Stage 3b,512,256,10000,0.2762091473764643
+43,augmentation_consistency,baseline,Output norm,Stage 4,512,384,10000,0.3001331623568715
+43,augmentation_consistency,baseline,Output norm,Global pool,512,384,10000,0.3001331623568715
+43,augmentation_consistency,augmentation,Projection,Stem,512,64,10000,0.5286067421081468
+43,augmentation_consistency,augmentation,Projection,Stage 1,512,64,10000,0.4510263289454783
+43,augmentation_consistency,augmentation,Projection,Stage 2,512,128,10000,0.3127562405384737
+43,augmentation_consistency,augmentation,Projection,Stage 3a,512,256,10000,0.33033074028475923
+43,augmentation_consistency,augmentation,Projection,Stage 3b,512,256,10000,0.20915925147282774
+43,augmentation_consistency,augmentation,Projection,Stage 4,512,384,10000,0.17892672568162468
+43,augmentation_consistency,augmentation,Projection,Global pool,512,384,10000,0.17892672568162468
+43,augmentation_consistency,augmentation,Block 1,Stem,512,64,10000,0.4149357076813294
+43,augmentation_consistency,augmentation,Block 1,Stage 1,512,64,10000,0.42464018438004547
+43,augmentation_consistency,augmentation,Block 1,Stage 2,512,128,10000,0.3508811423876527
+43,augmentation_consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.4012259085395276
+43,augmentation_consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3544663064418925
+43,augmentation_consistency,augmentation,Block 1,Stage 4,512,384,10000,0.2964713443380233
+43,augmentation_consistency,augmentation,Block 1,Global pool,512,384,10000,0.2964713443380233
+43,augmentation_consistency,augmentation,Block 2,Stem,512,64,10000,0.27453082885908986
+43,augmentation_consistency,augmentation,Block 2,Stage 1,512,64,10000,0.32803502460965117
+43,augmentation_consistency,augmentation,Block 2,Stage 2,512,128,10000,0.30933735594932066
+43,augmentation_consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3885574828160651
+43,augmentation_consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4606404322340163
+43,augmentation_consistency,augmentation,Block 2,Stage 4,512,384,10000,0.392815506019473
+43,augmentation_consistency,augmentation,Block 2,Global pool,512,384,10000,0.392815506019473
+43,augmentation_consistency,augmentation,Block 3,Stem,512,64,10000,0.18368376689071597
+43,augmentation_consistency,augmentation,Block 3,Stage 1,512,64,10000,0.21294059093205087
+43,augmentation_consistency,augmentation,Block 3,Stage 2,512,128,10000,0.19379967409726037
+43,augmentation_consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.2629280235464474
+43,augmentation_consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.32128716254276785
+43,augmentation_consistency,augmentation,Block 3,Stage 4,512,384,10000,0.30254037006901535
+43,augmentation_consistency,augmentation,Block 3,Global pool,512,384,10000,0.30254037006901535
+43,augmentation_consistency,augmentation,Output norm,Stem,512,64,10000,0.19407079239309452
+43,augmentation_consistency,augmentation,Output norm,Stage 1,512,64,10000,0.2206791148162331
+43,augmentation_consistency,augmentation,Output norm,Stage 2,512,128,10000,0.19738725590378112
+43,augmentation_consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.26211950115990706
+43,augmentation_consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.29348973450351773
+43,augmentation_consistency,augmentation,Output norm,Stage 4,512,384,10000,0.28388253187525536
+43,augmentation_consistency,augmentation,Output norm,Global pool,512,384,10000,0.28388253187525536
+44,baseline,baseline,Projection,Stem,512,64,10000,0.4188948012206917
+44,baseline,baseline,Projection,Stage 1,512,64,10000,0.3944196683610952
+44,baseline,baseline,Projection,Stage 2,512,128,10000,0.31998968455349897
+44,baseline,baseline,Projection,Stage 3a,512,256,10000,0.3283756808247212
+44,baseline,baseline,Projection,Stage 3b,512,256,10000,0.21225309992297683
+44,baseline,baseline,Projection,Stage 4,512,384,10000,0.19359057235026297
+44,baseline,baseline,Projection,Global pool,512,384,10000,0.19359057235026297
+44,baseline,baseline,Block 1,Stem,512,64,10000,0.3527272712268987
+44,baseline,baseline,Block 1,Stage 1,512,64,10000,0.3718200642897921
+44,baseline,baseline,Block 1,Stage 2,512,128,10000,0.3517994234548358
+44,baseline,baseline,Block 1,Stage 3a,512,256,10000,0.38353199532906534
+44,baseline,baseline,Block 1,Stage 3b,512,256,10000,0.3554272168343362
+44,baseline,baseline,Block 1,Stage 4,512,384,10000,0.33480494719719806
+44,baseline,baseline,Block 1,Global pool,512,384,10000,0.33480494719719806
+44,baseline,baseline,Block 2,Stem,512,64,10000,0.19451700005396558
+44,baseline,baseline,Block 2,Stage 1,512,64,10000,0.24327230952003454
+44,baseline,baseline,Block 2,Stage 2,512,128,10000,0.2771158582788838
+44,baseline,baseline,Block 2,Stage 3a,512,256,10000,0.3302225177658343
+44,baseline,baseline,Block 2,Stage 3b,512,256,10000,0.4809256544398193
+44,baseline,baseline,Block 2,Stage 4,512,384,10000,0.47181614153081464
+44,baseline,baseline,Block 2,Global pool,512,384,10000,0.47181614153081464
+44,baseline,baseline,Block 3,Stem,512,64,10000,0.10588366396686517
+44,baseline,baseline,Block 3,Stage 1,512,64,10000,0.14854212008067502
+44,baseline,baseline,Block 3,Stage 2,512,128,10000,0.1803566319145988
+44,baseline,baseline,Block 3,Stage 3a,512,256,10000,0.22198598013735846
+44,baseline,baseline,Block 3,Stage 3b,512,256,10000,0.36496221716143484
+44,baseline,baseline,Block 3,Stage 4,512,384,10000,0.417754468021034
+44,baseline,baseline,Block 3,Global pool,512,384,10000,0.417754468021034
+44,baseline,baseline,Output norm,Stem,512,64,10000,0.14278915837164932
+44,baseline,baseline,Output norm,Stage 1,512,64,10000,0.19198597647864185
+44,baseline,baseline,Output norm,Stage 2,512,128,10000,0.22424774102105952
+44,baseline,baseline,Output norm,Stage 3a,512,256,10000,0.2687001398440012
+44,baseline,baseline,Output norm,Stage 3b,512,256,10000,0.37545990239631694
+44,baseline,baseline,Output norm,Stage 4,512,384,10000,0.4385518144742711
+44,baseline,baseline,Output norm,Global pool,512,384,10000,0.4385518144742711
+44,baseline,augmentation,Projection,Stem,512,64,10000,0.4153692601738138
+44,baseline,augmentation,Projection,Stage 1,512,64,10000,0.3602393954332027
+44,baseline,augmentation,Projection,Stage 2,512,128,10000,0.29636278239673647
+44,baseline,augmentation,Projection,Stage 3a,512,256,10000,0.28592573371023566
+44,baseline,augmentation,Projection,Stage 3b,512,256,10000,0.18841957118644898
+44,baseline,augmentation,Projection,Stage 4,512,384,10000,0.16123419816537338
+44,baseline,augmentation,Projection,Global pool,512,384,10000,0.16123419816537338
+44,baseline,augmentation,Block 1,Stem,512,64,10000,0.35977525623175727
+44,baseline,augmentation,Block 1,Stage 1,512,64,10000,0.3481317033307842
+44,baseline,augmentation,Block 1,Stage 2,512,128,10000,0.32286291934989303
+44,baseline,augmentation,Block 1,Stage 3a,512,256,10000,0.3479510237917011
+44,baseline,augmentation,Block 1,Stage 3b,512,256,10000,0.33410607904629724
+44,baseline,augmentation,Block 1,Stage 4,512,384,10000,0.28904950269896373
+44,baseline,augmentation,Block 1,Global pool,512,384,10000,0.28904950269896373
+44,baseline,augmentation,Block 2,Stem,512,64,10000,0.2031241236480361
+44,baseline,augmentation,Block 2,Stage 1,512,64,10000,0.23455240772585112
+44,baseline,augmentation,Block 2,Stage 2,512,128,10000,0.25217021726994054
+44,baseline,augmentation,Block 2,Stage 3a,512,256,10000,0.3247501751707171
+44,baseline,augmentation,Block 2,Stage 3b,512,256,10000,0.4954789751410041
+44,baseline,augmentation,Block 2,Stage 4,512,384,10000,0.4239172630616912
+44,baseline,augmentation,Block 2,Global pool,512,384,10000,0.4239172630616912
+44,baseline,augmentation,Block 3,Stem,512,64,10000,0.11177518796402687
+44,baseline,augmentation,Block 3,Stage 1,512,64,10000,0.14326154909432057
+44,baseline,augmentation,Block 3,Stage 2,512,128,10000,0.16513310570099546
+44,baseline,augmentation,Block 3,Stage 3a,512,256,10000,0.22867371830277292
+44,baseline,augmentation,Block 3,Stage 3b,512,256,10000,0.4253675322955942
+44,baseline,augmentation,Block 3,Stage 4,512,384,10000,0.3917415751846037
+44,baseline,augmentation,Block 3,Global pool,512,384,10000,0.3917415751846037
+44,baseline,augmentation,Output norm,Stem,512,64,10000,0.1500639862729556
+44,baseline,augmentation,Output norm,Stage 1,512,64,10000,0.1835423418611836
+44,baseline,augmentation,Output norm,Stage 2,512,128,10000,0.21077174367235413
+44,baseline,augmentation,Output norm,Stage 3a,512,256,10000,0.2649239560482357
+44,baseline,augmentation,Output norm,Stage 3b,512,256,10000,0.41179005198703944
+44,baseline,augmentation,Output norm,Stage 4,512,384,10000,0.41098725123587454
+44,baseline,augmentation,Output norm,Global pool,512,384,10000,0.41098725123587454
+44,exposure,baseline,Projection,Stem,512,64,10000,0.448045452128083
+44,exposure,baseline,Projection,Stage 1,512,64,10000,0.41899858868893075
+44,exposure,baseline,Projection,Stage 2,512,128,10000,0.338351535879388
+44,exposure,baseline,Projection,Stage 3a,512,256,10000,0.34376830241109985
+44,exposure,baseline,Projection,Stage 3b,512,256,10000,0.2181137644459528
+44,exposure,baseline,Projection,Stage 4,512,384,10000,0.19678435171309533
+44,exposure,baseline,Projection,Global pool,512,384,10000,0.19678435171309533
+44,exposure,baseline,Block 1,Stem,512,64,10000,0.38671568215068225
+44,exposure,baseline,Block 1,Stage 1,512,64,10000,0.3947079246045417
+44,exposure,baseline,Block 1,Stage 2,512,128,10000,0.36423599191561706
+44,exposure,baseline,Block 1,Stage 3a,512,256,10000,0.3905006406518016
+44,exposure,baseline,Block 1,Stage 3b,512,256,10000,0.3366760661695315
+44,exposure,baseline,Block 1,Stage 4,512,384,10000,0.31007318021894864
+44,exposure,baseline,Block 1,Global pool,512,384,10000,0.31007318021894864
+44,exposure,baseline,Block 2,Stem,512,64,10000,0.2646400587340597
+44,exposure,baseline,Block 2,Stage 1,512,64,10000,0.3065881200698072
+44,exposure,baseline,Block 2,Stage 2,512,128,10000,0.33331836259781256
+44,exposure,baseline,Block 2,Stage 3a,512,256,10000,0.38960947836502957
+44,exposure,baseline,Block 2,Stage 3b,512,256,10000,0.5058875702107727
+44,exposure,baseline,Block 2,Stage 4,512,384,10000,0.48232395804803385
+44,exposure,baseline,Block 2,Global pool,512,384,10000,0.48232395804803385
+44,exposure,baseline,Block 3,Stem,512,64,10000,0.09860904558256174
+44,exposure,baseline,Block 3,Stage 1,512,64,10000,0.14013886387421587
+44,exposure,baseline,Block 3,Stage 2,512,128,10000,0.17381450360853595
+44,exposure,baseline,Block 3,Stage 3a,512,256,10000,0.22284869634376134
+44,exposure,baseline,Block 3,Stage 3b,512,256,10000,0.40974058240632627
+44,exposure,baseline,Block 3,Stage 4,512,384,10000,0.4443177816521237
+44,exposure,baseline,Block 3,Global pool,512,384,10000,0.4443177816521237
+44,exposure,baseline,Output norm,Stem,512,64,10000,0.15365848826627668
+44,exposure,baseline,Output norm,Stage 1,512,64,10000,0.20603139012303323
+44,exposure,baseline,Output norm,Stage 2,512,128,10000,0.24259431653432412
+44,exposure,baseline,Output norm,Stage 3a,512,256,10000,0.2972155712204019
+44,exposure,baseline,Output norm,Stage 3b,512,256,10000,0.4323175802958173
+44,exposure,baseline,Output norm,Stage 4,512,384,10000,0.4926559879588529
+44,exposure,baseline,Output norm,Global pool,512,384,10000,0.4926559879588529
+44,exposure,augmentation,Projection,Stem,512,64,10000,0.44429342883413286
+44,exposure,augmentation,Projection,Stage 1,512,64,10000,0.38385758186458807
+44,exposure,augmentation,Projection,Stage 2,512,128,10000,0.31275317056244495
+44,exposure,augmentation,Projection,Stage 3a,512,256,10000,0.29923547846564547
+44,exposure,augmentation,Projection,Stage 3b,512,256,10000,0.1923096378300275
+44,exposure,augmentation,Projection,Stage 4,512,384,10000,0.16365168442365083
+44,exposure,augmentation,Projection,Global pool,512,384,10000,0.16365168442365083
+44,exposure,augmentation,Block 1,Stem,512,64,10000,0.3930478313572784
+44,exposure,augmentation,Block 1,Stage 1,512,64,10000,0.3722222836859112
+44,exposure,augmentation,Block 1,Stage 2,512,128,10000,0.33528869596205857
+44,exposure,augmentation,Block 1,Stage 3a,512,256,10000,0.35489074491348765
+44,exposure,augmentation,Block 1,Stage 3b,512,256,10000,0.3112962531208882
+44,exposure,augmentation,Block 1,Stage 4,512,384,10000,0.2669082628593143
+44,exposure,augmentation,Block 1,Global pool,512,384,10000,0.2669082628593143
+44,exposure,augmentation,Block 2,Stem,512,64,10000,0.2732618631276043
+44,exposure,augmentation,Block 2,Stage 1,512,64,10000,0.29528187823363117
+44,exposure,augmentation,Block 2,Stage 2,512,128,10000,0.30431391343957037
+44,exposure,augmentation,Block 2,Stage 3a,512,256,10000,0.3772207090080068
+44,exposure,augmentation,Block 2,Stage 3b,512,256,10000,0.5009853737158962
+44,exposure,augmentation,Block 2,Stage 4,512,384,10000,0.43296447995485654
+44,exposure,augmentation,Block 2,Global pool,512,384,10000,0.43296447995485654
+44,exposure,augmentation,Block 3,Stem,512,64,10000,0.10386007736804986
+44,exposure,augmentation,Block 3,Stage 1,512,64,10000,0.13556097372712073
+44,exposure,augmentation,Block 3,Stage 2,512,128,10000,0.15673273884127834
+44,exposure,augmentation,Block 3,Stage 3a,512,256,10000,0.24027320374170846
+44,exposure,augmentation,Block 3,Stage 3b,512,256,10000,0.4763734532221962
+44,exposure,augmentation,Block 3,Stage 4,512,384,10000,0.4237574950847922
+44,exposure,augmentation,Block 3,Global pool,512,384,10000,0.4237574950847922
+44,exposure,augmentation,Output norm,Stem,512,64,10000,0.16114623465017666
+44,exposure,augmentation,Output norm,Stage 1,512,64,10000,0.19701580131401536
+44,exposure,augmentation,Output norm,Stage 2,512,128,10000,0.2281702950097098
+44,exposure,augmentation,Output norm,Stage 3a,512,256,10000,0.3005098586697014
+44,exposure,augmentation,Output norm,Stage 3b,512,256,10000,0.4729797311608296
+44,exposure,augmentation,Output norm,Stage 4,512,384,10000,0.4733776864327164
+44,exposure,augmentation,Output norm,Global pool,512,384,10000,0.4733776864327164
+44,consistency,baseline,Projection,Stem,512,64,10000,0.49673197410001996
+44,consistency,baseline,Projection,Stage 1,512,64,10000,0.4644283161983636
+44,consistency,baseline,Projection,Stage 2,512,128,10000,0.37390386207181864
+44,consistency,baseline,Projection,Stage 3a,512,256,10000,0.3761187633690085
+44,consistency,baseline,Projection,Stage 3b,512,256,10000,0.23398407176732494
+44,consistency,baseline,Projection,Stage 4,512,384,10000,0.21038245409189882
+44,consistency,baseline,Projection,Global pool,512,384,10000,0.21038245409189882
+44,consistency,baseline,Block 1,Stem,512,64,10000,0.4036318248649414
+44,consistency,baseline,Block 1,Stage 1,512,64,10000,0.41409561269148176
+44,consistency,baseline,Block 1,Stage 2,512,128,10000,0.3826630792096003
+44,consistency,baseline,Block 1,Stage 3a,512,256,10000,0.4107199222644872
+44,consistency,baseline,Block 1,Stage 3b,512,256,10000,0.3542756148326591
+44,consistency,baseline,Block 1,Stage 4,512,384,10000,0.3245261895719993
+44,consistency,baseline,Block 1,Global pool,512,384,10000,0.3245261895719993
+44,consistency,baseline,Block 2,Stem,512,64,10000,0.2382719538851213
+44,consistency,baseline,Block 2,Stage 1,512,64,10000,0.2767713250685777
+44,consistency,baseline,Block 2,Stage 2,512,128,10000,0.3028439934980052
+44,consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3593310053470024
+44,consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4762842209509221
+44,consistency,baseline,Block 2,Stage 4,512,384,10000,0.45975997730186313
+44,consistency,baseline,Block 2,Global pool,512,384,10000,0.45975997730186313
+44,consistency,baseline,Block 3,Stem,512,64,10000,0.12306090427407994
+44,consistency,baseline,Block 3,Stage 1,512,64,10000,0.13618048649973793
+44,consistency,baseline,Block 3,Stage 2,512,128,10000,0.1431639026904082
+44,consistency,baseline,Block 3,Stage 3a,512,256,10000,0.17607722837987214
+44,consistency,baseline,Block 3,Stage 3b,512,256,10000,0.2336107067803416
+44,consistency,baseline,Block 3,Stage 4,512,384,10000,0.2590365777684837
+44,consistency,baseline,Block 3,Global pool,512,384,10000,0.2590365777684837
+44,consistency,baseline,Output norm,Stem,512,64,10000,0.15679222711414809
+44,consistency,baseline,Output norm,Stage 1,512,64,10000,0.16915402881133793
+44,consistency,baseline,Output norm,Stage 2,512,128,10000,0.1723381889519799
+44,consistency,baseline,Output norm,Stage 3a,512,256,10000,0.20594431613912784
+44,consistency,baseline,Output norm,Stage 3b,512,256,10000,0.2266332207925565
+44,consistency,baseline,Output norm,Stage 4,512,384,10000,0.24687264728864414
+44,consistency,baseline,Output norm,Global pool,512,384,10000,0.24687264728864414
+44,consistency,augmentation,Projection,Stem,512,64,10000,0.49313555680709364
+44,consistency,augmentation,Projection,Stage 1,512,64,10000,0.42434775490582927
+44,consistency,augmentation,Projection,Stage 2,512,128,10000,0.3436943074317225
+44,consistency,augmentation,Projection,Stage 3a,512,256,10000,0.32409812755408135
+44,consistency,augmentation,Projection,Stage 3b,512,256,10000,0.20538027716809948
+44,consistency,augmentation,Projection,Stage 4,512,384,10000,0.17475690254166545
+44,consistency,augmentation,Projection,Global pool,512,384,10000,0.17475690254166545
+44,consistency,augmentation,Block 1,Stem,512,64,10000,0.41132959144342546
+44,consistency,augmentation,Block 1,Stage 1,512,64,10000,0.39168680084615803
+44,consistency,augmentation,Block 1,Stage 2,512,128,10000,0.35286454498568204
+44,consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.37419181851764377
+44,consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3269887185010048
+44,consistency,augmentation,Block 1,Stage 4,512,384,10000,0.27961337288498433
+44,consistency,augmentation,Block 1,Global pool,512,384,10000,0.27961337288498433
+44,consistency,augmentation,Block 2,Stem,512,64,10000,0.2477676048114589
+44,consistency,augmentation,Block 2,Stage 1,512,64,10000,0.27102134965061275
+44,consistency,augmentation,Block 2,Stage 2,512,128,10000,0.27778610723780056
+44,consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3558570684566556
+44,consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.48025457142548006
+44,consistency,augmentation,Block 2,Stage 4,512,384,10000,0.4156178896540987
+44,consistency,augmentation,Block 2,Global pool,512,384,10000,0.4156178896540987
+44,consistency,augmentation,Block 3,Stem,512,64,10000,0.129529996356155
+44,consistency,augmentation,Block 3,Stage 1,512,64,10000,0.13778296773291085
+44,consistency,augmentation,Block 3,Stage 2,512,128,10000,0.13494356130466356
+44,consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.18611588956182215
+44,consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.2630886833076123
+44,consistency,augmentation,Block 3,Stage 4,512,384,10000,0.24071156613615402
+44,consistency,augmentation,Block 3,Global pool,512,384,10000,0.24071156613615402
+44,consistency,augmentation,Output norm,Stem,512,64,10000,0.16469882333855
+44,consistency,augmentation,Output norm,Stage 1,512,64,10000,0.16995400928225482
+44,consistency,augmentation,Output norm,Stage 2,512,128,10000,0.16396965990101686
+44,consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.20934400187115793
+44,consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.24329793849349904
+44,consistency,augmentation,Output norm,Stage 4,512,384,10000,0.23309266091689657
+44,consistency,augmentation,Output norm,Global pool,512,384,10000,0.23309266091689657
+44,augmentation,baseline,Projection,Stem,512,64,10000,0.5190233053798935
+44,augmentation,baseline,Projection,Stage 1,512,64,10000,0.4866229068139621
+44,augmentation,baseline,Projection,Stage 2,512,128,10000,0.3955888986432016
+44,augmentation,baseline,Projection,Stage 3a,512,256,10000,0.4029977869028593
+44,augmentation,baseline,Projection,Stage 3b,512,256,10000,0.2437091476404607
+44,augmentation,baseline,Projection,Stage 4,512,384,10000,0.21615537393986614
+44,augmentation,baseline,Projection,Global pool,512,384,10000,0.21615537393986614
+44,augmentation,baseline,Block 1,Stem,512,64,10000,0.4549761217652884
+44,augmentation,baseline,Block 1,Stage 1,512,64,10000,0.46063450736349476
+44,augmentation,baseline,Block 1,Stage 2,512,128,10000,0.421755398716916
+44,augmentation,baseline,Block 1,Stage 3a,512,256,10000,0.4513735593936227
+44,augmentation,baseline,Block 1,Stage 3b,512,256,10000,0.359933744374905
+44,augmentation,baseline,Block 1,Stage 4,512,384,10000,0.3234786742020213
+44,augmentation,baseline,Block 1,Global pool,512,384,10000,0.3234786742020213
+44,augmentation,baseline,Block 2,Stem,512,64,10000,0.3624717645801922
+44,augmentation,baseline,Block 2,Stage 1,512,64,10000,0.40161972852329025
+44,augmentation,baseline,Block 2,Stage 2,512,128,10000,0.41132568252694707
+44,augmentation,baseline,Block 2,Stage 3a,512,256,10000,0.4622529563342076
+44,augmentation,baseline,Block 2,Stage 3b,512,256,10000,0.5060418435911578
+44,augmentation,baseline,Block 2,Stage 4,512,384,10000,0.47165450765381245
+44,augmentation,baseline,Block 2,Global pool,512,384,10000,0.47165450765381245
+44,augmentation,baseline,Block 3,Stem,512,64,10000,0.1543933913405198
+44,augmentation,baseline,Block 3,Stage 1,512,64,10000,0.21116071032492637
+44,augmentation,baseline,Block 3,Stage 2,512,128,10000,0.26523377586468283
+44,augmentation,baseline,Block 3,Stage 3a,512,256,10000,0.31910811582824644
+44,augmentation,baseline,Block 3,Stage 3b,512,256,10000,0.568197124772858
+44,augmentation,baseline,Block 3,Stage 4,512,384,10000,0.5300189710353751
+44,augmentation,baseline,Block 3,Global pool,512,384,10000,0.5300189710353751
+44,augmentation,baseline,Output norm,Stem,512,64,10000,0.2776419253875773
+44,augmentation,baseline,Output norm,Stage 1,512,64,10000,0.3505517861905833
+44,augmentation,baseline,Output norm,Stage 2,512,128,10000,0.40451494608763344
+44,augmentation,baseline,Output norm,Stage 3a,512,256,10000,0.4685118953021749
+44,augmentation,baseline,Output norm,Stage 3b,512,256,10000,0.6390422967573178
+44,augmentation,baseline,Output norm,Stage 4,512,384,10000,0.6311017398712556
+44,augmentation,baseline,Output norm,Global pool,512,384,10000,0.6311017398712556
+44,augmentation,augmentation,Projection,Stem,512,64,10000,0.5170007484623079
+44,augmentation,augmentation,Projection,Stage 1,512,64,10000,0.45169987844786696
+44,augmentation,augmentation,Projection,Stage 2,512,128,10000,0.3684205673529594
+44,augmentation,augmentation,Projection,Stage 3a,512,256,10000,0.3525989688851167
+44,augmentation,augmentation,Projection,Stage 3b,512,256,10000,0.21185408183707313
+44,augmentation,augmentation,Projection,Stage 4,512,384,10000,0.17853908592075884
+44,augmentation,augmentation,Projection,Global pool,512,384,10000,0.17853908592075884
+44,augmentation,augmentation,Block 1,Stem,512,64,10000,0.4612990373237368
+44,augmentation,augmentation,Block 1,Stage 1,512,64,10000,0.4410773211094205
+44,augmentation,augmentation,Block 1,Stage 2,512,128,10000,0.39462504427586714
+44,augmentation,augmentation,Block 1,Stage 3a,512,256,10000,0.4132256551419992
+44,augmentation,augmentation,Block 1,Stage 3b,512,256,10000,0.32903925441077264
+44,augmentation,augmentation,Block 1,Stage 4,512,384,10000,0.27589305905166955
+44,augmentation,augmentation,Block 1,Global pool,512,384,10000,0.27589305905166955
+44,augmentation,augmentation,Block 2,Stem,512,64,10000,0.3712520298774704
+44,augmentation,augmentation,Block 2,Stage 1,512,64,10000,0.39035217551757895
+44,augmentation,augmentation,Block 2,Stage 2,512,128,10000,0.3839658505263778
+44,augmentation,augmentation,Block 2,Stage 3a,512,256,10000,0.43947706491430366
+44,augmentation,augmentation,Block 2,Stage 3b,512,256,10000,0.4905963135427572
+44,augmentation,augmentation,Block 2,Stage 4,512,384,10000,0.4196993432931437
+44,augmentation,augmentation,Block 2,Global pool,512,384,10000,0.4196993432931437
+44,augmentation,augmentation,Block 3,Stem,512,64,10000,0.16228025889343342
+44,augmentation,augmentation,Block 3,Stage 1,512,64,10000,0.2063567137617328
+44,augmentation,augmentation,Block 3,Stage 2,512,128,10000,0.23191066255638107
+44,augmentation,augmentation,Block 3,Stage 3a,512,256,10000,0.3208327513149617
+44,augmentation,augmentation,Block 3,Stage 3b,512,256,10000,0.5973331494227421
+44,augmentation,augmentation,Block 3,Stage 4,512,384,10000,0.49804836176859857
+44,augmentation,augmentation,Block 3,Global pool,512,384,10000,0.49804836176859857
+44,augmentation,augmentation,Output norm,Stem,512,64,10000,0.28800101258699023
+44,augmentation,augmentation,Output norm,Stage 1,512,64,10000,0.33705004817194123
+44,augmentation,augmentation,Output norm,Stage 2,512,128,10000,0.3709186124392502
+44,augmentation,augmentation,Output norm,Stage 3a,512,256,10000,0.45049197497654964
+44,augmentation,augmentation,Output norm,Stage 3b,512,256,10000,0.6393864651681281
+44,augmentation,augmentation,Output norm,Stage 4,512,384,10000,0.5904968168821902
+44,augmentation,augmentation,Output norm,Global pool,512,384,10000,0.5904968168821902
+44,augmentation_consistency,baseline,Projection,Stem,512,64,10000,0.5367340442564703
+44,augmentation_consistency,baseline,Projection,Stage 1,512,64,10000,0.5011448672004166
+44,augmentation_consistency,baseline,Projection,Stage 2,512,128,10000,0.4059780577794116
+44,augmentation_consistency,baseline,Projection,Stage 3a,512,256,10000,0.4098643087431082
+44,augmentation_consistency,baseline,Projection,Stage 3b,512,256,10000,0.24669526022781124
+44,augmentation_consistency,baseline,Projection,Stage 4,512,384,10000,0.2188358089378248
+44,augmentation_consistency,baseline,Projection,Global pool,512,384,10000,0.2188358089378248
+44,augmentation_consistency,baseline,Block 1,Stem,512,64,10000,0.3983857172502195
+44,augmentation_consistency,baseline,Block 1,Stage 1,512,64,10000,0.41924271106357036
+44,augmentation_consistency,baseline,Block 1,Stage 2,512,128,10000,0.4062327497757371
+44,augmentation_consistency,baseline,Block 1,Stage 3a,512,256,10000,0.4419913150609494
+44,augmentation_consistency,baseline,Block 1,Stage 3b,512,256,10000,0.3881696800918923
+44,augmentation_consistency,baseline,Block 1,Stage 4,512,384,10000,0.34516839294935
+44,augmentation_consistency,baseline,Block 1,Global pool,512,384,10000,0.34516839294935
+44,augmentation_consistency,baseline,Block 2,Stem,512,64,10000,0.258559742220814
+44,augmentation_consistency,baseline,Block 2,Stage 1,512,64,10000,0.3056492252409187
+44,augmentation_consistency,baseline,Block 2,Stage 2,512,128,10000,0.34240206203289003
+44,augmentation_consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3982774234702887
+44,augmentation_consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4852041844005603
+44,augmentation_consistency,baseline,Block 2,Stage 4,512,384,10000,0.44680770212709925
+44,augmentation_consistency,baseline,Block 2,Global pool,512,384,10000,0.44680770212709925
+44,augmentation_consistency,baseline,Block 3,Stem,512,64,10000,0.17156140326094868
+44,augmentation_consistency,baseline,Block 3,Stage 1,512,64,10000,0.19418016596399482
+44,augmentation_consistency,baseline,Block 3,Stage 2,512,128,10000,0.2084177402891291
+44,augmentation_consistency,baseline,Block 3,Stage 3a,512,256,10000,0.2547511288865711
+44,augmentation_consistency,baseline,Block 3,Stage 3b,512,256,10000,0.32040393916519505
+44,augmentation_consistency,baseline,Block 3,Stage 4,512,384,10000,0.3319904364794846
+44,augmentation_consistency,baseline,Block 3,Global pool,512,384,10000,0.3319904364794846
+44,augmentation_consistency,baseline,Output norm,Stem,512,64,10000,0.17998473247833827
+44,augmentation_consistency,baseline,Output norm,Stage 1,512,64,10000,0.20024315639319182
+44,augmentation_consistency,baseline,Output norm,Stage 2,512,128,10000,0.20967484377799378
+44,augmentation_consistency,baseline,Output norm,Stage 3a,512,256,10000,0.2535688754513422
+44,augmentation_consistency,baseline,Output norm,Stage 3b,512,256,10000,0.28615308810607704
+44,augmentation_consistency,baseline,Output norm,Stage 4,512,384,10000,0.30208711185776205
+44,augmentation_consistency,baseline,Output norm,Global pool,512,384,10000,0.30208711185776205
+44,augmentation_consistency,augmentation,Projection,Stem,512,64,10000,0.5345664811354882
+44,augmentation_consistency,augmentation,Projection,Stage 1,512,64,10000,0.46368539706904194
+44,augmentation_consistency,augmentation,Projection,Stage 2,512,128,10000,0.37643909415191107
+44,augmentation_consistency,augmentation,Projection,Stage 3a,512,256,10000,0.3562324224478422
+44,augmentation_consistency,augmentation,Projection,Stage 3b,512,256,10000,0.21430705195911492
+44,augmentation_consistency,augmentation,Projection,Stage 4,512,384,10000,0.18050800765121955
+44,augmentation_consistency,augmentation,Projection,Global pool,512,384,10000,0.18050800765121955
+44,augmentation_consistency,augmentation,Block 1,Stem,512,64,10000,0.41231148187241035
+44,augmentation_consistency,augmentation,Block 1,Stage 1,512,64,10000,0.4091579228707011
+44,augmentation_consistency,augmentation,Block 1,Stage 2,512,128,10000,0.377270571988699
+44,augmentation_consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.4085453339273939
+44,augmentation_consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3576336652970307
+44,augmentation_consistency,augmentation,Block 1,Stage 4,512,384,10000,0.29801258087122706
+44,augmentation_consistency,augmentation,Block 1,Global pool,512,384,10000,0.29801258087122706
+44,augmentation_consistency,augmentation,Block 2,Stem,512,64,10000,0.27035451766236807
+44,augmentation_consistency,augmentation,Block 2,Stage 1,512,64,10000,0.30833588291948594
+44,augmentation_consistency,augmentation,Block 2,Stage 2,512,128,10000,0.3157563162372727
+44,augmentation_consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3898315325689092
+44,augmentation_consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4757679445448945
+44,augmentation_consistency,augmentation,Block 2,Stage 4,512,384,10000,0.40445115638426554
+44,augmentation_consistency,augmentation,Block 2,Global pool,512,384,10000,0.40445115638426554
+44,augmentation_consistency,augmentation,Block 3,Stem,512,64,10000,0.18096739519266378
+44,augmentation_consistency,augmentation,Block 3,Stage 1,512,64,10000,0.19785245304756888
+44,augmentation_consistency,augmentation,Block 3,Stage 2,512,128,10000,0.19853144398714653
+44,augmentation_consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.26535537964689376
+44,augmentation_consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.3427443918646327
+44,augmentation_consistency,augmentation,Block 3,Stage 4,512,384,10000,0.3099530236751334
+44,augmentation_consistency,augmentation,Block 3,Global pool,512,384,10000,0.3099530236751334
+44,augmentation_consistency,augmentation,Output norm,Stem,512,64,10000,0.18901990533989863
+44,augmentation_consistency,augmentation,Output norm,Stage 1,512,64,10000,0.20355664368064122
+44,augmentation_consistency,augmentation,Output norm,Stage 2,512,128,10000,0.20189436349546422
+44,augmentation_consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.26111308450486514
+44,augmentation_consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.3021056972416084
+44,augmentation_consistency,augmentation,Output norm,Stage 4,512,384,10000,0.28521854346166414
+44,augmentation_consistency,augmentation,Output norm,Global pool,512,384,10000,0.28521854346166414
+45,baseline,baseline,Projection,Stem,512,64,10000,0.42749957977332287
+45,baseline,baseline,Projection,Stage 1,512,64,10000,0.39715069605258235
+45,baseline,baseline,Projection,Stage 2,512,128,10000,0.27269059953263586
+45,baseline,baseline,Projection,Stage 3a,512,256,10000,0.28595627389085787
+45,baseline,baseline,Projection,Stage 3b,512,256,10000,0.22084730744898434
+45,baseline,baseline,Projection,Stage 4,512,384,10000,0.19526398638393436
+45,baseline,baseline,Projection,Global pool,512,384,10000,0.19526398638393436
+45,baseline,baseline,Block 1,Stem,512,64,10000,0.3697097177470242
+45,baseline,baseline,Block 1,Stage 1,512,64,10000,0.3880336528873099
+45,baseline,baseline,Block 1,Stage 2,512,128,10000,0.309153746632023
+45,baseline,baseline,Block 1,Stage 3a,512,256,10000,0.3515804601731579
+45,baseline,baseline,Block 1,Stage 3b,512,256,10000,0.36447213186774435
+45,baseline,baseline,Block 1,Stage 4,512,384,10000,0.33473019219911243
+45,baseline,baseline,Block 1,Global pool,512,384,10000,0.33473019219911243
+45,baseline,baseline,Block 2,Stem,512,64,10000,0.20345285584833647
+45,baseline,baseline,Block 2,Stage 1,512,64,10000,0.25911442015016156
+45,baseline,baseline,Block 2,Stage 2,512,128,10000,0.25122293545102675
+45,baseline,baseline,Block 2,Stage 3a,512,256,10000,0.32205117026081037
+45,baseline,baseline,Block 2,Stage 3b,512,256,10000,0.4688749530533623
+45,baseline,baseline,Block 2,Stage 4,512,384,10000,0.4535418147138202
+45,baseline,baseline,Block 2,Global pool,512,384,10000,0.4535418147138202
+45,baseline,baseline,Block 3,Stem,512,64,10000,0.09979151191385001
+45,baseline,baseline,Block 3,Stage 1,512,64,10000,0.14340946466549911
+45,baseline,baseline,Block 3,Stage 2,512,128,10000,0.15948361706785624
+45,baseline,baseline,Block 3,Stage 3a,512,256,10000,0.21307410699151602
+45,baseline,baseline,Block 3,Stage 3b,512,256,10000,0.37540164865744186
+45,baseline,baseline,Block 3,Stage 4,512,384,10000,0.40672483137342985
+45,baseline,baseline,Block 3,Global pool,512,384,10000,0.40672483137342985
+45,baseline,baseline,Output norm,Stem,512,64,10000,0.14200852346815773
+45,baseline,baseline,Output norm,Stage 1,512,64,10000,0.19985525236392193
+45,baseline,baseline,Output norm,Stage 2,512,128,10000,0.2039581868099499
+45,baseline,baseline,Output norm,Stage 3a,512,256,10000,0.25965333847768196
+45,baseline,baseline,Output norm,Stage 3b,512,256,10000,0.3900958197855226
+45,baseline,baseline,Output norm,Stage 4,512,384,10000,0.43218441471219216
+45,baseline,baseline,Output norm,Global pool,512,384,10000,0.43218441471219216
+45,baseline,augmentation,Projection,Stem,512,64,10000,0.41587873017692234
+45,baseline,augmentation,Projection,Stage 1,512,64,10000,0.3463356901006723
+45,baseline,augmentation,Projection,Stage 2,512,128,10000,0.27467064057200036
+45,baseline,augmentation,Projection,Stage 3a,512,256,10000,0.2812138893144563
+45,baseline,augmentation,Projection,Stage 3b,512,256,10000,0.18614263814141183
+45,baseline,augmentation,Projection,Stage 4,512,384,10000,0.16443973499421674
+45,baseline,augmentation,Projection,Global pool,512,384,10000,0.16443973499421674
+45,baseline,augmentation,Block 1,Stem,512,64,10000,0.3686834565538904
+45,baseline,augmentation,Block 1,Stage 1,512,64,10000,0.34493905657138135
+45,baseline,augmentation,Block 1,Stage 2,512,128,10000,0.3125097204134054
+45,baseline,augmentation,Block 1,Stage 3a,512,256,10000,0.34560284930608065
+45,baseline,augmentation,Block 1,Stage 3b,512,256,10000,0.32388030483298536
+45,baseline,augmentation,Block 1,Stage 4,512,384,10000,0.2906091279751787
+45,baseline,augmentation,Block 1,Global pool,512,384,10000,0.2906091279751787
+45,baseline,augmentation,Block 2,Stem,512,64,10000,0.20569727083523107
+45,baseline,augmentation,Block 2,Stage 1,512,64,10000,0.2355652853173589
+45,baseline,augmentation,Block 2,Stage 2,512,128,10000,0.2519195975275375
+45,baseline,augmentation,Block 2,Stage 3a,512,256,10000,0.3246709089226657
+45,baseline,augmentation,Block 2,Stage 3b,512,256,10000,0.4684580778815841
+45,baseline,augmentation,Block 2,Stage 4,512,384,10000,0.4198043468244085
+45,baseline,augmentation,Block 2,Global pool,512,384,10000,0.4198043468244085
+45,baseline,augmentation,Block 3,Stem,512,64,10000,0.10207400514849643
+45,baseline,augmentation,Block 3,Stage 1,512,64,10000,0.13325901234169288
+45,baseline,augmentation,Block 3,Stage 2,512,128,10000,0.15746941526928127
+45,baseline,augmentation,Block 3,Stage 3a,512,256,10000,0.23446765447496806
+45,baseline,augmentation,Block 3,Stage 3b,512,256,10000,0.4183000360931968
+45,baseline,augmentation,Block 3,Stage 4,512,384,10000,0.3944124569567095
+45,baseline,augmentation,Block 3,Global pool,512,384,10000,0.3944124569567095
+45,baseline,augmentation,Output norm,Stem,512,64,10000,0.1454721554173854
+45,baseline,augmentation,Output norm,Stage 1,512,64,10000,0.18411222750422732
+45,baseline,augmentation,Output norm,Stage 2,512,128,10000,0.2066152629860856
+45,baseline,augmentation,Output norm,Stage 3a,512,256,10000,0.2705742158715825
+45,baseline,augmentation,Output norm,Stage 3b,512,256,10000,0.4171737544825991
+45,baseline,augmentation,Output norm,Stage 4,512,384,10000,0.41220804476824485
+45,baseline,augmentation,Output norm,Global pool,512,384,10000,0.41220804476824485
+45,exposure,baseline,Projection,Stem,512,64,10000,0.44779149425380604
+45,exposure,baseline,Projection,Stage 1,512,64,10000,0.4144242259697182
+45,exposure,baseline,Projection,Stage 2,512,128,10000,0.28569339849414727
+45,exposure,baseline,Projection,Stage 3a,512,256,10000,0.29796192627644896
+45,exposure,baseline,Projection,Stage 3b,512,256,10000,0.22593929491524758
+45,exposure,baseline,Projection,Stage 4,512,384,10000,0.19780657884059843
+45,exposure,baseline,Projection,Global pool,512,384,10000,0.19780657884059843
+45,exposure,baseline,Block 1,Stem,512,64,10000,0.38177465374182584
+45,exposure,baseline,Block 1,Stage 1,512,64,10000,0.39426513918717565
+45,exposure,baseline,Block 1,Stage 2,512,128,10000,0.3100604873122981
+45,exposure,baseline,Block 1,Stage 3a,512,256,10000,0.35038917641912104
+45,exposure,baseline,Block 1,Stage 3b,512,256,10000,0.34351169533703224
+45,exposure,baseline,Block 1,Stage 4,512,384,10000,0.31048134121519255
+45,exposure,baseline,Block 1,Global pool,512,384,10000,0.31048134121519255
+45,exposure,baseline,Block 2,Stem,512,64,10000,0.26980582379925305
+45,exposure,baseline,Block 2,Stage 1,512,64,10000,0.3272370094041496
+45,exposure,baseline,Block 2,Stage 2,512,128,10000,0.3010859811323427
+45,exposure,baseline,Block 2,Stage 3a,512,256,10000,0.37457238207081145
+45,exposure,baseline,Block 2,Stage 3b,512,256,10000,0.5069106770117461
+45,exposure,baseline,Block 2,Stage 4,512,384,10000,0.47787005503656865
+45,exposure,baseline,Block 2,Global pool,512,384,10000,0.47787005503656865
+45,exposure,baseline,Block 3,Stem,512,64,10000,0.09478463009533351
+45,exposure,baseline,Block 3,Stage 1,512,64,10000,0.13596528001439384
+45,exposure,baseline,Block 3,Stage 2,512,128,10000,0.1586249344426489
+45,exposure,baseline,Block 3,Stage 3a,512,256,10000,0.21873853900281337
+45,exposure,baseline,Block 3,Stage 3b,512,256,10000,0.40407299740390623
+45,exposure,baseline,Block 3,Stage 4,512,384,10000,0.4314104909918121
+45,exposure,baseline,Block 3,Global pool,512,384,10000,0.4314104909918121
+45,exposure,baseline,Output norm,Stem,512,64,10000,0.1509145206274489
+45,exposure,baseline,Output norm,Stage 1,512,64,10000,0.21238961815601767
+45,exposure,baseline,Output norm,Stage 2,512,128,10000,0.22314536925515177
+45,exposure,baseline,Output norm,Stage 3a,512,256,10000,0.2920691362393941
+45,exposure,baseline,Output norm,Stage 3b,512,256,10000,0.445925833537576
+45,exposure,baseline,Output norm,Stage 4,512,384,10000,0.4972840275462319
+45,exposure,baseline,Output norm,Global pool,512,384,10000,0.4972840275462319
+45,exposure,augmentation,Projection,Stem,512,64,10000,0.4387968259011759
+45,exposure,augmentation,Projection,Stage 1,512,64,10000,0.36430205700076634
+45,exposure,augmentation,Projection,Stage 2,512,128,10000,0.2862527692669314
+45,exposure,augmentation,Projection,Stage 3a,512,256,10000,0.29415527366024635
+45,exposure,augmentation,Projection,Stage 3b,512,256,10000,0.18961116787812513
+45,exposure,augmentation,Projection,Stage 4,512,384,10000,0.16699204424262165
+45,exposure,augmentation,Projection,Global pool,512,384,10000,0.16699204424262165
+45,exposure,augmentation,Block 1,Stem,512,64,10000,0.38148119773763567
+45,exposure,augmentation,Block 1,Stage 1,512,64,10000,0.3571213174017128
+45,exposure,augmentation,Block 1,Stage 2,512,128,10000,0.31255142058444657
+45,exposure,augmentation,Block 1,Stage 3a,512,256,10000,0.34962791781066566
+45,exposure,augmentation,Block 1,Stage 3b,512,256,10000,0.3045986296700395
+45,exposure,augmentation,Block 1,Stage 4,512,384,10000,0.27004698684098655
+45,exposure,augmentation,Block 1,Global pool,512,384,10000,0.27004698684098655
+45,exposure,augmentation,Block 2,Stem,512,64,10000,0.27341445098587636
+45,exposure,augmentation,Block 2,Stage 1,512,64,10000,0.29839658447485923
+45,exposure,augmentation,Block 2,Stage 2,512,128,10000,0.3052229279606389
+45,exposure,augmentation,Block 2,Stage 3a,512,256,10000,0.37666304857959393
+45,exposure,augmentation,Block 2,Stage 3b,512,256,10000,0.48851496446423504
+45,exposure,augmentation,Block 2,Stage 4,512,384,10000,0.4389315241852653
+45,exposure,augmentation,Block 2,Global pool,512,384,10000,0.4389315241852653
+45,exposure,augmentation,Block 3,Stem,512,64,10000,0.09605392627597188
+45,exposure,augmentation,Block 3,Stage 1,512,64,10000,0.12839209839112364
+45,exposure,augmentation,Block 3,Stage 2,512,128,10000,0.1553066809451364
+45,exposure,augmentation,Block 3,Stage 3a,512,256,10000,0.24469514372705778
+45,exposure,augmentation,Block 3,Stage 3b,512,256,10000,0.45734288715181176
+45,exposure,augmentation,Block 3,Stage 4,512,384,10000,0.4257410011818982
+45,exposure,augmentation,Block 3,Global pool,512,384,10000,0.4257410011818982
+45,exposure,augmentation,Output norm,Stem,512,64,10000,0.1538971190349774
+45,exposure,augmentation,Output norm,Stage 1,512,64,10000,0.19917666476337748
+45,exposure,augmentation,Output norm,Stage 2,512,128,10000,0.22620425862953472
+45,exposure,augmentation,Output norm,Stage 3a,512,256,10000,0.30664957387573366
+45,exposure,augmentation,Output norm,Stage 3b,512,256,10000,0.4840347709416836
+45,exposure,augmentation,Output norm,Stage 4,512,384,10000,0.48611286697118616
+45,exposure,augmentation,Output norm,Global pool,512,384,10000,0.48611286697118616
+45,consistency,baseline,Projection,Stem,512,64,10000,0.5049146395854381
+45,consistency,baseline,Projection,Stage 1,512,64,10000,0.46893169903112564
+45,consistency,baseline,Projection,Stage 2,512,128,10000,0.31912101319595754
+45,consistency,baseline,Projection,Stage 3a,512,256,10000,0.3265096562666325
+45,consistency,baseline,Projection,Stage 3b,512,256,10000,0.24317226212508722
+45,consistency,baseline,Projection,Stage 4,512,384,10000,0.21135144795369395
+45,consistency,baseline,Projection,Global pool,512,384,10000,0.21135144795369395
+45,consistency,baseline,Block 1,Stem,512,64,10000,0.40497271587520345
+45,consistency,baseline,Block 1,Stage 1,512,64,10000,0.4128200582754938
+45,consistency,baseline,Block 1,Stage 2,512,128,10000,0.3246932104536493
+45,consistency,baseline,Block 1,Stage 3a,512,256,10000,0.36542458473716716
+45,consistency,baseline,Block 1,Stage 3b,512,256,10000,0.35378379691219963
+45,consistency,baseline,Block 1,Stage 4,512,384,10000,0.31541915592504133
+45,consistency,baseline,Block 1,Global pool,512,384,10000,0.31541915592504133
+45,consistency,baseline,Block 2,Stem,512,64,10000,0.23737967296298085
+45,consistency,baseline,Block 2,Stage 1,512,64,10000,0.28870824042457804
+45,consistency,baseline,Block 2,Stage 2,512,128,10000,0.27210354227843386
+45,consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3464612723129144
+45,consistency,baseline,Block 2,Stage 3b,512,256,10000,0.48191057550534
+45,consistency,baseline,Block 2,Stage 4,512,384,10000,0.4579190547681577
+45,consistency,baseline,Block 2,Global pool,512,384,10000,0.4579190547681577
+45,consistency,baseline,Block 3,Stem,512,64,10000,0.10484979534674593
+45,consistency,baseline,Block 3,Stage 1,512,64,10000,0.11486098611305559
+45,consistency,baseline,Block 3,Stage 2,512,128,10000,0.1133539262527746
+45,consistency,baseline,Block 3,Stage 3a,512,256,10000,0.14752529033939057
+45,consistency,baseline,Block 3,Stage 3b,512,256,10000,0.1921530989710219
+45,consistency,baseline,Block 3,Stage 4,512,384,10000,0.23395193691171348
+45,consistency,baseline,Block 3,Global pool,512,384,10000,0.23395193691171348
+45,consistency,baseline,Output norm,Stem,512,64,10000,0.16243671332251755
+45,consistency,baseline,Output norm,Stage 1,512,64,10000,0.1763370710449316
+45,consistency,baseline,Output norm,Stage 2,512,128,10000,0.160098812783635
+45,consistency,baseline,Output norm,Stage 3a,512,256,10000,0.19706348560261416
+45,consistency,baseline,Output norm,Stage 3b,512,256,10000,0.217954506416249
+45,consistency,baseline,Output norm,Stage 4,512,384,10000,0.2391568620074943
+45,consistency,baseline,Output norm,Global pool,512,384,10000,0.2391568620074943
+45,consistency,augmentation,Projection,Stem,512,64,10000,0.4972120303322552
+45,consistency,augmentation,Projection,Stage 1,512,64,10000,0.4101580286508853
+45,consistency,augmentation,Projection,Stage 2,512,128,10000,0.3205439568295366
+45,consistency,augmentation,Projection,Stage 3a,512,256,10000,0.31965984805169184
+45,consistency,augmentation,Projection,Stage 3b,512,256,10000,0.20090136242038523
+45,consistency,augmentation,Projection,Stage 4,512,384,10000,0.17821547512236768
+45,consistency,augmentation,Projection,Global pool,512,384,10000,0.17821547512236768
+45,consistency,augmentation,Block 1,Stem,512,64,10000,0.40664378578023674
+45,consistency,augmentation,Block 1,Stage 1,512,64,10000,0.37810770254303755
+45,consistency,augmentation,Block 1,Stage 2,512,128,10000,0.32699675714313164
+45,consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.3661318184363364
+45,consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3143542118372187
+45,consistency,augmentation,Block 1,Stage 4,512,384,10000,0.27607912289011827
+45,consistency,augmentation,Block 1,Global pool,512,384,10000,0.27607912289011827
+45,consistency,augmentation,Block 2,Stem,512,64,10000,0.24242593768335483
+45,consistency,augmentation,Block 2,Stage 1,512,64,10000,0.27138174536666165
+45,consistency,augmentation,Block 2,Stage 2,512,128,10000,0.27572856832567894
+45,consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.35841282298742255
+45,consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4687969367267385
+45,consistency,augmentation,Block 2,Stage 4,512,384,10000,0.4212373406713861
+45,consistency,augmentation,Block 2,Global pool,512,384,10000,0.4212373406713861
+45,consistency,augmentation,Block 3,Stem,512,64,10000,0.10669689273702333
+45,consistency,augmentation,Block 3,Stage 1,512,64,10000,0.11534637081577115
+45,consistency,augmentation,Block 3,Stage 2,512,128,10000,0.1122110105386891
+45,consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.17100715392693708
+45,consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.2166869436343356
+45,consistency,augmentation,Block 3,Stage 4,512,384,10000,0.22425479854410824
+45,consistency,augmentation,Block 3,Global pool,512,384,10000,0.22425479854410824
+45,consistency,augmentation,Output norm,Stem,512,64,10000,0.16692476109806229
+45,consistency,augmentation,Output norm,Stage 1,512,64,10000,0.1735489590224369
+45,consistency,augmentation,Output norm,Stage 2,512,128,10000,0.15989696737213727
+45,consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.21357646906860983
+45,consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.231859033979864
+45,consistency,augmentation,Output norm,Stage 4,512,384,10000,0.22934694373909226
+45,consistency,augmentation,Output norm,Global pool,512,384,10000,0.22934694373909226
+45,augmentation,baseline,Projection,Stem,512,64,10000,0.5265648617208389
+45,augmentation,baseline,Projection,Stage 1,512,64,10000,0.4918115741050224
+45,augmentation,baseline,Projection,Stage 2,512,128,10000,0.34171641299107314
+45,augmentation,baseline,Projection,Stage 3a,512,256,10000,0.3522863577845229
+45,augmentation,baseline,Projection,Stage 3b,512,256,10000,0.25236717290188
+45,augmentation,baseline,Projection,Stage 4,512,384,10000,0.2174091095652164
+45,augmentation,baseline,Projection,Global pool,512,384,10000,0.2174091095652164
+45,augmentation,baseline,Block 1,Stem,512,64,10000,0.45708171447684215
+45,augmentation,baseline,Block 1,Stage 1,512,64,10000,0.46795100097938264
+45,augmentation,baseline,Block 1,Stage 2,512,128,10000,0.3729285464588749
+45,augmentation,baseline,Block 1,Stage 3a,512,256,10000,0.41167238801780104
+45,augmentation,baseline,Block 1,Stage 3b,512,256,10000,0.37564133644650216
+45,augmentation,baseline,Block 1,Stage 4,512,384,10000,0.33163232686576416
+45,augmentation,baseline,Block 1,Global pool,512,384,10000,0.33163232686576416
+45,augmentation,baseline,Block 2,Stem,512,64,10000,0.36640756293868965
+45,augmentation,baseline,Block 2,Stage 1,512,64,10000,0.4164061794059014
+45,augmentation,baseline,Block 2,Stage 2,512,128,10000,0.37196983712805504
+45,augmentation,baseline,Block 2,Stage 3a,512,256,10000,0.438345156590977
+45,augmentation,baseline,Block 2,Stage 3b,512,256,10000,0.5071603253183685
+45,augmentation,baseline,Block 2,Stage 4,512,384,10000,0.46474986754676745
+45,augmentation,baseline,Block 2,Global pool,512,384,10000,0.46474986754676745
+45,augmentation,baseline,Block 3,Stem,512,64,10000,0.1443360945452055
+45,augmentation,baseline,Block 3,Stage 1,512,64,10000,0.20540008124756876
+45,augmentation,baseline,Block 3,Stage 2,512,128,10000,0.21352675216128333
+45,augmentation,baseline,Block 3,Stage 3a,512,256,10000,0.2967772885318992
+45,augmentation,baseline,Block 3,Stage 3b,512,256,10000,0.5600865857215221
+45,augmentation,baseline,Block 3,Stage 4,512,384,10000,0.5110084127610417
+45,augmentation,baseline,Block 3,Global pool,512,384,10000,0.5110084127610417
+45,augmentation,baseline,Output norm,Stem,512,64,10000,0.27851042281206784
+45,augmentation,baseline,Output norm,Stage 1,512,64,10000,0.36969225786165166
+45,augmentation,baseline,Output norm,Stage 2,512,128,10000,0.34450799910233604
+45,augmentation,baseline,Output norm,Stage 3a,512,256,10000,0.44315036549609493
+45,augmentation,baseline,Output norm,Stage 3b,512,256,10000,0.6568818331482128
+45,augmentation,baseline,Output norm,Stage 4,512,384,10000,0.6292537587825882
+45,augmentation,baseline,Output norm,Global pool,512,384,10000,0.6292537587825882
+45,augmentation,augmentation,Projection,Stem,512,64,10000,0.5159884358828197
+45,augmentation,augmentation,Projection,Stage 1,512,64,10000,0.4366218761188034
+45,augmentation,augmentation,Projection,Stage 2,512,128,10000,0.3437859755318929
+45,augmentation,augmentation,Projection,Stage 3a,512,256,10000,0.3498335861322684
+45,augmentation,augmentation,Projection,Stage 3b,512,256,10000,0.20930555280620952
+45,augmentation,augmentation,Projection,Stage 4,512,384,10000,0.18179119612693542
+45,augmentation,augmentation,Projection,Global pool,512,384,10000,0.18179119612693542
+45,augmentation,augmentation,Block 1,Stem,512,64,10000,0.4544960783961669
+45,augmentation,augmentation,Block 1,Stage 1,512,64,10000,0.43047405530648153
+45,augmentation,augmentation,Block 1,Stage 2,512,128,10000,0.37583719842083596
+45,augmentation,augmentation,Block 1,Stage 3a,512,256,10000,0.4134803643078582
+45,augmentation,augmentation,Block 1,Stage 3b,512,256,10000,0.3312428648587054
+45,augmentation,augmentation,Block 1,Stage 4,512,384,10000,0.2867555426898301
+45,augmentation,augmentation,Block 1,Global pool,512,384,10000,0.2867555426898301
+45,augmentation,augmentation,Block 2,Stem,512,64,10000,0.3655292320737829
+45,augmentation,augmentation,Block 2,Stage 1,512,64,10000,0.38814706487021705
+45,augmentation,augmentation,Block 2,Stage 2,512,128,10000,0.37575089380080967
+45,augmentation,augmentation,Block 2,Stage 3a,512,256,10000,0.4426195326293945
+45,augmentation,augmentation,Block 2,Stage 3b,512,256,10000,0.47607963642609363
+45,augmentation,augmentation,Block 2,Stage 4,512,384,10000,0.4202886432566662
+45,augmentation,augmentation,Block 2,Global pool,512,384,10000,0.4202886432566662
+45,augmentation,augmentation,Block 3,Stem,512,64,10000,0.1462226755705568
+45,augmentation,augmentation,Block 3,Stage 1,512,64,10000,0.18850995140323612
+45,augmentation,augmentation,Block 3,Stage 2,512,128,10000,0.21477413101043616
+45,augmentation,augmentation,Block 3,Stage 3a,512,256,10000,0.30668037711203644
+45,augmentation,augmentation,Block 3,Stage 3b,512,256,10000,0.5816483405642286
+45,augmentation,augmentation,Block 3,Stage 4,512,384,10000,0.501560581750676
+45,augmentation,augmentation,Block 3,Global pool,512,384,10000,0.501560581750676
+45,augmentation,augmentation,Output norm,Stem,512,64,10000,0.28378639839468006
+45,augmentation,augmentation,Output norm,Stage 1,512,64,10000,0.33408910017778964
+45,augmentation,augmentation,Output norm,Stage 2,512,128,10000,0.3591834759745636
+45,augmentation,augmentation,Output norm,Stage 3a,512,256,10000,0.440970565956227
+45,augmentation,augmentation,Output norm,Stage 3b,512,256,10000,0.6389321807626296
+45,augmentation,augmentation,Output norm,Stage 4,512,384,10000,0.6023947327875818
+45,augmentation,augmentation,Output norm,Global pool,512,384,10000,0.6023947327875818
+45,augmentation_consistency,baseline,Projection,Stem,512,64,10000,0.5496149225645934
+45,augmentation_consistency,baseline,Projection,Stage 1,512,64,10000,0.5069065050705517
+45,augmentation_consistency,baseline,Projection,Stage 2,512,128,10000,0.34790733013720226
+45,augmentation_consistency,baseline,Projection,Stage 3a,512,256,10000,0.3548766084696096
+45,augmentation_consistency,baseline,Projection,Stage 3b,512,256,10000,0.25659560385056446
+45,augmentation_consistency,baseline,Projection,Stage 4,512,384,10000,0.22022363709574183
+45,augmentation_consistency,baseline,Projection,Global pool,512,384,10000,0.22022363709574183
+45,augmentation_consistency,baseline,Block 1,Stem,512,64,10000,0.4056495591222246
+45,augmentation_consistency,baseline,Block 1,Stage 1,512,64,10000,0.4285807385488012
+45,augmentation_consistency,baseline,Block 1,Stage 2,512,128,10000,0.3601120334121955
+45,augmentation_consistency,baseline,Block 1,Stage 3a,512,256,10000,0.4032666283577282
+45,augmentation_consistency,baseline,Block 1,Stage 3b,512,256,10000,0.39160553226597805
+45,augmentation_consistency,baseline,Block 1,Stage 4,512,384,10000,0.34249366375198914
+45,augmentation_consistency,baseline,Block 1,Global pool,512,384,10000,0.34249366375198914
+45,augmentation_consistency,baseline,Block 2,Stem,512,64,10000,0.26283379712030086
+45,augmentation_consistency,baseline,Block 2,Stage 1,512,64,10000,0.3175423977889811
+45,augmentation_consistency,baseline,Block 2,Stage 2,512,128,10000,0.3117084532808341
+45,augmentation_consistency,baseline,Block 2,Stage 3a,512,256,10000,0.38010166974011905
+45,augmentation_consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4744975981164347
+45,augmentation_consistency,baseline,Block 2,Stage 4,512,384,10000,0.4365425805866592
+45,augmentation_consistency,baseline,Block 2,Global pool,512,384,10000,0.4365425805866592
+45,augmentation_consistency,baseline,Block 3,Stem,512,64,10000,0.16744699287986345
+45,augmentation_consistency,baseline,Block 3,Stage 1,512,64,10000,0.19038679336066835
+45,augmentation_consistency,baseline,Block 3,Stage 2,512,128,10000,0.18685505446128392
+45,augmentation_consistency,baseline,Block 3,Stage 3a,512,256,10000,0.2394502645468126
+45,augmentation_consistency,baseline,Block 3,Stage 3b,512,256,10000,0.2996627670283271
+45,augmentation_consistency,baseline,Block 3,Stage 4,512,384,10000,0.31489862649849937
+45,augmentation_consistency,baseline,Block 3,Global pool,512,384,10000,0.31489862649849937
+45,augmentation_consistency,baseline,Output norm,Stem,512,64,10000,0.18476958684983183
+45,augmentation_consistency,baseline,Output norm,Stage 1,512,64,10000,0.20804913889597507
+45,augmentation_consistency,baseline,Output norm,Stage 2,512,128,10000,0.19615789474804465
+45,augmentation_consistency,baseline,Output norm,Stage 3a,512,256,10000,0.24545276886901649
+45,augmentation_consistency,baseline,Output norm,Stage 3b,512,256,10000,0.28125232810793693
+45,augmentation_consistency,baseline,Output norm,Stage 4,512,384,10000,0.2969436743386847
+45,augmentation_consistency,baseline,Output norm,Global pool,512,384,10000,0.2969436743386847
+45,augmentation_consistency,augmentation,Projection,Stem,512,64,10000,0.5409722786772172
+45,augmentation_consistency,augmentation,Projection,Stage 1,512,64,10000,0.44814290612213264
+45,augmentation_consistency,augmentation,Projection,Stage 2,512,128,10000,0.3500521784071552
+45,augmentation_consistency,augmentation,Projection,Stage 3a,512,256,10000,0.35168264455572423
+45,augmentation_consistency,augmentation,Projection,Stage 3b,512,256,10000,0.2108545049832151
+45,augmentation_consistency,augmentation,Projection,Stage 4,512,384,10000,0.18389842380027943
+45,augmentation_consistency,augmentation,Projection,Global pool,512,384,10000,0.18389842380027943
+45,augmentation_consistency,augmentation,Block 1,Stem,512,64,10000,0.40984144554485097
+45,augmentation_consistency,augmentation,Block 1,Stage 1,512,64,10000,0.4046066238343089
+45,augmentation_consistency,augmentation,Block 1,Stage 2,512,128,10000,0.36443644519563917
+45,augmentation_consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.4115741580192964
+45,augmentation_consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.34807457947859854
+45,augmentation_consistency,augmentation,Block 1,Stage 4,512,384,10000,0.29829382082719685
+45,augmentation_consistency,augmentation,Block 1,Global pool,512,384,10000,0.29829382082719685
+45,augmentation_consistency,augmentation,Block 2,Stem,512,64,10000,0.26535907842025397
+45,augmentation_consistency,augmentation,Block 2,Stage 1,512,64,10000,0.3090569277811227
+45,augmentation_consistency,augmentation,Block 2,Stage 2,512,128,10000,0.3145827399794472
+45,augmentation_consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3939273250952961
+45,augmentation_consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4546916566012975
+45,augmentation_consistency,augmentation,Block 2,Stage 4,512,384,10000,0.39799830988087775
+45,augmentation_consistency,augmentation,Block 2,Global pool,512,384,10000,0.39799830988087775
+45,augmentation_consistency,augmentation,Block 3,Stem,512,64,10000,0.1699369384204626
+45,augmentation_consistency,augmentation,Block 3,Stage 1,512,64,10000,0.19134903369333367
+45,augmentation_consistency,augmentation,Block 3,Stage 2,512,128,10000,0.18776389932787838
+45,augmentation_consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.2673896488715096
+45,augmentation_consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.32005421884397184
+45,augmentation_consistency,augmentation,Block 3,Stage 4,512,384,10000,0.29901821702157577
+45,augmentation_consistency,augmentation,Block 3,Global pool,512,384,10000,0.29901821702157577
+45,augmentation_consistency,augmentation,Output norm,Stem,512,64,10000,0.18842246844652702
+45,augmentation_consistency,augmentation,Output norm,Stage 1,512,64,10000,0.20737008035347015
+45,augmentation_consistency,augmentation,Output norm,Stage 2,512,128,10000,0.19786837066160046
+45,augmentation_consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.2688676239103229
+45,augmentation_consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.29496981380003057
+45,augmentation_consistency,augmentation,Output norm,Stage 4,512,384,10000,0.2820059782589221
+45,augmentation_consistency,augmentation,Output norm,Global pool,512,384,10000,0.2820059782589221
+46,baseline,baseline,Projection,Stem,512,64,10000,0.42206635070211324
+46,baseline,baseline,Projection,Stage 1,512,64,10000,0.4082060143581906
+46,baseline,baseline,Projection,Stage 2,512,128,10000,0.28892385270616144
+46,baseline,baseline,Projection,Stage 3a,512,256,10000,0.32142690182540073
+46,baseline,baseline,Projection,Stage 3b,512,256,10000,0.20640943215525565
+46,baseline,baseline,Projection,Stage 4,512,384,10000,0.1884959065487249
+46,baseline,baseline,Projection,Global pool,512,384,10000,0.1884959065487249
+46,baseline,baseline,Block 1,Stem,512,64,10000,0.35354885530366514
+46,baseline,baseline,Block 1,Stage 1,512,64,10000,0.3846784204103169
+46,baseline,baseline,Block 1,Stage 2,512,128,10000,0.3202292922564001
+46,baseline,baseline,Block 1,Stage 3a,512,256,10000,0.37001487402586464
+46,baseline,baseline,Block 1,Stage 3b,512,256,10000,0.34915084386093254
+46,baseline,baseline,Block 1,Stage 4,512,384,10000,0.3322961639157262
+46,baseline,baseline,Block 1,Global pool,512,384,10000,0.3322961639157262
+46,baseline,baseline,Block 2,Stem,512,64,10000,0.1925381080574986
+46,baseline,baseline,Block 2,Stage 1,512,64,10000,0.24795388224512904
+46,baseline,baseline,Block 2,Stage 2,512,128,10000,0.25737742727104823
+46,baseline,baseline,Block 2,Stage 3a,512,256,10000,0.3198564485423555
+46,baseline,baseline,Block 2,Stage 3b,512,256,10000,0.46916820012174715
+46,baseline,baseline,Block 2,Stage 4,512,384,10000,0.4698771145041175
+46,baseline,baseline,Block 2,Global pool,512,384,10000,0.4698771145041175
+46,baseline,baseline,Block 3,Stem,512,64,10000,0.09884273274407167
+46,baseline,baseline,Block 3,Stage 1,512,64,10000,0.13618968238128595
+46,baseline,baseline,Block 3,Stage 2,512,128,10000,0.15653633244589202
+46,baseline,baseline,Block 3,Stage 3a,512,256,10000,0.20006708597234438
+46,baseline,baseline,Block 3,Stage 3b,512,256,10000,0.3680925595932229
+46,baseline,baseline,Block 3,Stage 4,512,384,10000,0.4229143170625133
+46,baseline,baseline,Block 3,Global pool,512,384,10000,0.4229143170625133
+46,baseline,baseline,Output norm,Stem,512,64,10000,0.1374113419830904
+46,baseline,baseline,Output norm,Stage 1,512,64,10000,0.1808132784209553
+46,baseline,baseline,Output norm,Stage 2,512,128,10000,0.19640397670121362
+46,baseline,baseline,Output norm,Stage 3a,512,256,10000,0.24696557062726882
+46,baseline,baseline,Output norm,Stage 3b,512,256,10000,0.3646699482695341
+46,baseline,baseline,Output norm,Stage 4,512,384,10000,0.4279818204426835
+46,baseline,baseline,Output norm,Global pool,512,384,10000,0.4279818204426835
+46,baseline,augmentation,Projection,Stem,512,64,10000,0.42185109885532984
+46,baseline,augmentation,Projection,Stage 1,512,64,10000,0.35363348622462204
+46,baseline,augmentation,Projection,Stage 2,512,128,10000,0.2637069040960569
+46,baseline,augmentation,Projection,Stage 3a,512,256,10000,0.27511675212311937
+46,baseline,augmentation,Projection,Stage 3b,512,256,10000,0.19264558870350376
+46,baseline,augmentation,Projection,Stage 4,512,384,10000,0.1622025304811871
+46,baseline,augmentation,Projection,Global pool,512,384,10000,0.1622025304811871
+46,baseline,augmentation,Block 1,Stem,512,64,10000,0.37193860148946667
+46,baseline,augmentation,Block 1,Stage 1,512,64,10000,0.34811795837581827
+46,baseline,augmentation,Block 1,Stage 2,512,128,10000,0.29899520473042585
+46,baseline,augmentation,Block 1,Stage 3a,512,256,10000,0.3374485611874395
+46,baseline,augmentation,Block 1,Stage 3b,512,256,10000,0.33566539815784757
+46,baseline,augmentation,Block 1,Stage 4,512,384,10000,0.28529374040517924
+46,baseline,augmentation,Block 1,Global pool,512,384,10000,0.28529374040517924
+46,baseline,augmentation,Block 2,Stem,512,64,10000,0.21177997421278777
+46,baseline,augmentation,Block 2,Stage 1,512,64,10000,0.23733132434159643
+46,baseline,augmentation,Block 2,Stage 2,512,128,10000,0.24710740769475875
+46,baseline,augmentation,Block 2,Stage 3a,512,256,10000,0.3199744898375843
+46,baseline,augmentation,Block 2,Stage 3b,512,256,10000,0.47865145444994395
+46,baseline,augmentation,Block 2,Stage 4,512,384,10000,0.4110919450731534
+46,baseline,augmentation,Block 2,Global pool,512,384,10000,0.4110919450731534
+46,baseline,augmentation,Block 3,Stem,512,64,10000,0.11007926523580641
+46,baseline,augmentation,Block 3,Stage 1,512,64,10000,0.13496194610391524
+46,baseline,augmentation,Block 3,Stage 2,512,128,10000,0.156205649584191
+46,baseline,augmentation,Block 3,Stage 3a,512,256,10000,0.2165951688494236
+46,baseline,augmentation,Block 3,Stage 3b,512,256,10000,0.40852820127380124
+46,baseline,augmentation,Block 3,Stage 4,512,384,10000,0.3787908530535085
+46,baseline,augmentation,Block 3,Global pool,512,384,10000,0.3787908530535085
+46,baseline,augmentation,Output norm,Stem,512,64,10000,0.1516279795612891
+46,baseline,augmentation,Output norm,Stage 1,512,64,10000,0.17470162152731603
+46,baseline,augmentation,Output norm,Stage 2,512,128,10000,0.19391103451939998
+46,baseline,augmentation,Output norm,Stage 3a,512,256,10000,0.25208232918677626
+46,baseline,augmentation,Output norm,Stage 3b,512,256,10000,0.39684448143372814
+46,baseline,augmentation,Output norm,Stage 4,512,384,10000,0.39825029851899774
+46,baseline,augmentation,Output norm,Global pool,512,384,10000,0.39825029851899774
+46,exposure,baseline,Projection,Stem,512,64,10000,0.44991008062855736
+46,exposure,baseline,Projection,Stage 1,512,64,10000,0.4347804813621772
+46,exposure,baseline,Projection,Stage 2,512,128,10000,0.30340151159332357
+46,exposure,baseline,Projection,Stage 3a,512,256,10000,0.3332731565669652
+46,exposure,baseline,Projection,Stage 3b,512,256,10000,0.21035490516012137
+46,exposure,baseline,Projection,Stage 4,512,384,10000,0.18958784207364196
+46,exposure,baseline,Projection,Global pool,512,384,10000,0.18958784207364196
+46,exposure,baseline,Block 1,Stem,512,64,10000,0.3998662041231653
+46,exposure,baseline,Block 1,Stage 1,512,64,10000,0.42257228877937775
+46,exposure,baseline,Block 1,Stage 2,512,128,10000,0.3354993790130102
+46,exposure,baseline,Block 1,Stage 3a,512,256,10000,0.382659238867759
+46,exposure,baseline,Block 1,Stage 3b,512,256,10000,0.33094221637768517
+46,exposure,baseline,Block 1,Stage 4,512,384,10000,0.30857686819965785
+46,exposure,baseline,Block 1,Global pool,512,384,10000,0.30857686819965785
+46,exposure,baseline,Block 2,Stem,512,64,10000,0.28730897434505814
+46,exposure,baseline,Block 2,Stage 1,512,64,10000,0.3371911281994521
+46,exposure,baseline,Block 2,Stage 2,512,128,10000,0.31431828481206464
+46,exposure,baseline,Block 2,Stage 3a,512,256,10000,0.3808159306599614
+46,exposure,baseline,Block 2,Stage 3b,512,256,10000,0.4819011105455255
+46,exposure,baseline,Block 2,Stage 4,512,384,10000,0.4677866588738905
+46,exposure,baseline,Block 2,Global pool,512,384,10000,0.4677866588738905
+46,exposure,baseline,Block 3,Stem,512,64,10000,0.09580011355480234
+46,exposure,baseline,Block 3,Stage 1,512,64,10000,0.13674817529782485
+46,exposure,baseline,Block 3,Stage 2,512,128,10000,0.16184079133981388
+46,exposure,baseline,Block 3,Stage 3a,512,256,10000,0.21601666263638575
+46,exposure,baseline,Block 3,Stage 3b,512,256,10000,0.43715285940265436
+46,exposure,baseline,Block 3,Stage 4,512,384,10000,0.4701972891086668
+46,exposure,baseline,Block 3,Global pool,512,384,10000,0.4701972891086668
+46,exposure,baseline,Output norm,Stem,512,64,10000,0.16711134845936945
+46,exposure,baseline,Output norm,Stage 1,512,64,10000,0.2197244080222914
+46,exposure,baseline,Output norm,Stage 2,512,128,10000,0.23873714889008113
+46,exposure,baseline,Output norm,Stage 3a,512,256,10000,0.3032446111450471
+46,exposure,baseline,Output norm,Stage 3b,512,256,10000,0.46149414684478207
+46,exposure,baseline,Output norm,Stage 4,512,384,10000,0.5206343849792588
+46,exposure,baseline,Output norm,Global pool,512,384,10000,0.5206343849792588
+46,exposure,augmentation,Projection,Stem,512,64,10000,0.44926249003596463
+46,exposure,augmentation,Projection,Stage 1,512,64,10000,0.37618408786600865
+46,exposure,augmentation,Projection,Stage 2,512,128,10000,0.27621811577529093
+46,exposure,augmentation,Projection,Stage 3a,512,256,10000,0.2872745483373656
+46,exposure,augmentation,Projection,Stage 3b,512,256,10000,0.19421324370197035
+46,exposure,augmentation,Projection,Stage 4,512,384,10000,0.16282881244912414
+46,exposure,augmentation,Projection,Global pool,512,384,10000,0.16282881244912414
+46,exposure,augmentation,Block 1,Stem,512,64,10000,0.41464032656035904
+46,exposure,augmentation,Block 1,Stage 1,512,64,10000,0.3774811534075859
+46,exposure,augmentation,Block 1,Stage 2,512,128,10000,0.31015094022671935
+46,exposure,augmentation,Block 1,Stage 3a,512,256,10000,0.3485086653939685
+46,exposure,augmentation,Block 1,Stage 3b,512,256,10000,0.3142032743204421
+46,exposure,augmentation,Block 1,Stage 4,512,384,10000,0.2654283776927908
+46,exposure,augmentation,Block 1,Global pool,512,384,10000,0.2654283776927908
+46,exposure,augmentation,Block 2,Stem,512,64,10000,0.30694882356748565
+46,exposure,augmentation,Block 2,Stage 1,512,64,10000,0.3125045501079464
+46,exposure,augmentation,Block 2,Stage 2,512,128,10000,0.2972703122368839
+46,exposure,augmentation,Block 2,Stage 3a,512,256,10000,0.37159664480447446
+46,exposure,augmentation,Block 2,Stage 3b,512,256,10000,0.4815750847386805
+46,exposure,augmentation,Block 2,Stage 4,512,384,10000,0.4109888442613839
+46,exposure,augmentation,Block 2,Global pool,512,384,10000,0.4109888442613839
+46,exposure,augmentation,Block 3,Stem,512,64,10000,0.10825837820416619
+46,exposure,augmentation,Block 3,Stage 1,512,64,10000,0.13438142467820238
+46,exposure,augmentation,Block 3,Stage 2,512,128,10000,0.15743063071714705
+46,exposure,augmentation,Block 3,Stage 3a,512,256,10000,0.2402011063130648
+46,exposure,augmentation,Block 3,Stage 3b,512,256,10000,0.47940305614539697
+46,exposure,augmentation,Block 3,Stage 4,512,384,10000,0.423581371863171
+46,exposure,augmentation,Block 3,Global pool,512,384,10000,0.423581371863171
+46,exposure,augmentation,Output norm,Stem,512,64,10000,0.18446324039672346
+46,exposure,augmentation,Output norm,Stage 1,512,64,10000,0.21153235728161526
+46,exposure,augmentation,Output norm,Stage 2,512,128,10000,0.2346700347317328
+46,exposure,augmentation,Output norm,Stage 3a,512,256,10000,0.31216861884852654
+46,exposure,augmentation,Output norm,Stage 3b,512,256,10000,0.497777206476513
+46,exposure,augmentation,Output norm,Stage 4,512,384,10000,0.4918649442609197
+46,exposure,augmentation,Output norm,Global pool,512,384,10000,0.4918649442609197
+46,consistency,baseline,Projection,Stem,512,64,10000,0.4948196257428574
+46,consistency,baseline,Projection,Stage 1,512,64,10000,0.48168498453798386
+46,consistency,baseline,Projection,Stage 2,512,128,10000,0.333932608694058
+46,consistency,baseline,Projection,Stage 3a,512,256,10000,0.3624656579590983
+46,consistency,baseline,Projection,Stage 3b,512,256,10000,0.22600207106737952
+46,consistency,baseline,Projection,Stage 4,512,384,10000,0.20261255931099845
+46,consistency,baseline,Projection,Global pool,512,384,10000,0.20261255931099845
+46,consistency,baseline,Block 1,Stem,512,64,10000,0.3974647620897915
+46,consistency,baseline,Block 1,Stage 1,512,64,10000,0.43140931698519064
+46,consistency,baseline,Block 1,Stage 2,512,128,10000,0.3472179202756458
+46,consistency,baseline,Block 1,Stage 3a,512,256,10000,0.3949748320835551
+46,consistency,baseline,Block 1,Stage 3b,512,256,10000,0.348174769916191
+46,consistency,baseline,Block 1,Stage 4,512,384,10000,0.32117110528382925
+46,consistency,baseline,Block 1,Global pool,512,384,10000,0.32117110528382925
+46,consistency,baseline,Block 2,Stem,512,64,10000,0.23117119684409174
+46,consistency,baseline,Block 2,Stage 1,512,64,10000,0.28709314522886564
+46,consistency,baseline,Block 2,Stage 2,512,128,10000,0.2795766969247901
+46,consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3427661279006705
+46,consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4641967883771917
+46,consistency,baseline,Block 2,Stage 4,512,384,10000,0.4582661979146394
+46,consistency,baseline,Block 2,Global pool,512,384,10000,0.4582661979146394
+46,consistency,baseline,Block 3,Stem,512,64,10000,0.10027330846854222
+46,consistency,baseline,Block 3,Stage 1,512,64,10000,0.12364593988286025
+46,consistency,baseline,Block 3,Stage 2,512,128,10000,0.11969622356217721
+46,consistency,baseline,Block 3,Stage 3a,512,256,10000,0.149706240370405
+46,consistency,baseline,Block 3,Stage 3b,512,256,10000,0.20035917597627773
+46,consistency,baseline,Block 3,Stage 4,512,384,10000,0.2511846773901677
+46,consistency,baseline,Block 3,Global pool,512,384,10000,0.2511846773901677
+46,consistency,baseline,Output norm,Stem,512,64,10000,0.15656487900616545
+46,consistency,baseline,Output norm,Stage 1,512,64,10000,0.18775456714667615
+46,consistency,baseline,Output norm,Stage 2,512,128,10000,0.17352029069122787
+46,consistency,baseline,Output norm,Stage 3a,512,256,10000,0.20352286220034588
+46,consistency,baseline,Output norm,Stage 3b,512,256,10000,0.226350340979079
+46,consistency,baseline,Output norm,Stage 4,512,384,10000,0.25311109067464427
+46,consistency,baseline,Output norm,Global pool,512,384,10000,0.25311109067464427
+46,consistency,augmentation,Projection,Stem,512,64,10000,0.49907392750901136
+46,consistency,augmentation,Projection,Stage 1,512,64,10000,0.4175500291779655
+46,consistency,augmentation,Projection,Stage 2,512,128,10000,0.3054322708140047
+46,consistency,augmentation,Projection,Stage 3a,512,256,10000,0.31143540715082657
+46,consistency,augmentation,Projection,Stage 3b,512,256,10000,0.20799164585733942
+46,consistency,augmentation,Projection,Stage 4,512,384,10000,0.1744578970520543
+46,consistency,augmentation,Projection,Global pool,512,384,10000,0.1744578970520543
+46,consistency,augmentation,Block 1,Stem,512,64,10000,0.41956653098140023
+46,consistency,augmentation,Block 1,Stage 1,512,64,10000,0.3905338181693128
+46,consistency,augmentation,Block 1,Stage 2,512,128,10000,0.3229661552621259
+46,consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.36485598961200083
+46,consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3295964861938459
+46,consistency,augmentation,Block 1,Stage 4,512,384,10000,0.27559958698939924
+46,consistency,augmentation,Block 1,Global pool,512,384,10000,0.27559958698939924
+46,consistency,augmentation,Block 2,Stem,512,64,10000,0.25393992322669
+46,consistency,augmentation,Block 2,Stage 1,512,64,10000,0.27273265128615004
+46,consistency,augmentation,Block 2,Stage 2,512,128,10000,0.26379511993109495
+46,consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.3503352272938871
+46,consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.47018309241763134
+46,consistency,augmentation,Block 2,Stage 4,512,384,10000,0.4027775200271378
+46,consistency,augmentation,Block 2,Global pool,512,384,10000,0.4027775200271378
+46,consistency,augmentation,Block 3,Stem,512,64,10000,0.10906272307082496
+46,consistency,augmentation,Block 3,Stage 1,512,64,10000,0.119474392267303
+46,consistency,augmentation,Block 3,Stage 2,512,128,10000,0.11430401424196339
+46,consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.1652233460470529
+46,consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.22382138726516837
+46,consistency,augmentation,Block 3,Stage 4,512,384,10000,0.22802376039100558
+46,consistency,augmentation,Block 3,Global pool,512,384,10000,0.22802376039100558
+46,consistency,augmentation,Output norm,Stem,512,64,10000,0.17042813098847776
+46,consistency,augmentation,Output norm,Stage 1,512,64,10000,0.18037797917360485
+46,consistency,augmentation,Output norm,Stage 2,512,128,10000,0.16318253322935733
+46,consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.2134903081641245
+46,consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.23967577096963932
+46,consistency,augmentation,Output norm,Stage 4,512,384,10000,0.2369153896989032
+46,consistency,augmentation,Output norm,Global pool,512,384,10000,0.2369153896989032
+46,augmentation,baseline,Projection,Stem,512,64,10000,0.5097937465814988
+46,augmentation,baseline,Projection,Stage 1,512,64,10000,0.5032464778196675
+46,augmentation,baseline,Projection,Stage 2,512,128,10000,0.35666001952567966
+46,augmentation,baseline,Projection,Stage 3a,512,256,10000,0.39182881868083064
+46,augmentation,baseline,Projection,Stage 3b,512,256,10000,0.23589235799130936
+46,augmentation,baseline,Projection,Stage 4,512,384,10000,0.20869128118127514
+46,augmentation,baseline,Projection,Global pool,512,384,10000,0.20869128118127514
+46,augmentation,baseline,Block 1,Stem,512,64,10000,0.44073007034337935
+46,augmentation,baseline,Block 1,Stage 1,512,64,10000,0.47611460988919335
+46,augmentation,baseline,Block 1,Stage 2,512,128,10000,0.3883783963313627
+46,augmentation,baseline,Block 1,Stage 3a,512,256,10000,0.43710433005178145
+46,augmentation,baseline,Block 1,Stage 3b,512,256,10000,0.3619913900651319
+46,augmentation,baseline,Block 1,Stage 4,512,384,10000,0.3287510713547917
+46,augmentation,baseline,Block 1,Global pool,512,384,10000,0.3287510713547917
+46,augmentation,baseline,Block 2,Stem,512,64,10000,0.353508040803088
+46,augmentation,baseline,Block 2,Stage 1,512,64,10000,0.41235163658569224
+46,augmentation,baseline,Block 2,Stage 2,512,128,10000,0.38099306213487466
+46,augmentation,baseline,Block 2,Stage 3a,512,256,10000,0.4474188427679712
+46,augmentation,baseline,Block 2,Stage 3b,512,256,10000,0.4921212632423652
+46,augmentation,baseline,Block 2,Stage 4,512,384,10000,0.4677149761225832
+46,augmentation,baseline,Block 2,Global pool,512,384,10000,0.4677149761225832
+46,augmentation,baseline,Block 3,Stem,512,64,10000,0.14592482295462772
+46,augmentation,baseline,Block 3,Stage 1,512,64,10000,0.20306610197525812
+46,augmentation,baseline,Block 3,Stage 2,512,128,10000,0.2298449503576646
+46,augmentation,baseline,Block 3,Stage 3a,512,256,10000,0.2982214481119037
+46,augmentation,baseline,Block 3,Stage 3b,512,256,10000,0.546212792342339
+46,augmentation,baseline,Block 3,Stage 4,512,384,10000,0.5288931710374565
+46,augmentation,baseline,Block 3,Global pool,512,384,10000,0.5288931710374565
+46,augmentation,baseline,Output norm,Stem,512,64,10000,0.2687559394960241
+46,augmentation,baseline,Output norm,Stage 1,512,64,10000,0.3385852252400027
+46,augmentation,baseline,Output norm,Stage 2,512,128,10000,0.34872141969605097
+46,augmentation,baseline,Output norm,Stage 3a,512,256,10000,0.4428098860764402
+46,augmentation,baseline,Output norm,Stage 3b,512,256,10000,0.6181968785302292
+46,augmentation,baseline,Output norm,Stage 4,512,384,10000,0.6209617469799117
+46,augmentation,baseline,Output norm,Global pool,512,384,10000,0.6209617469799117
+46,augmentation,augmentation,Projection,Stem,512,64,10000,0.5127162532017921
+46,augmentation,augmentation,Projection,Stage 1,512,64,10000,0.4412212881504282
+46,augmentation,augmentation,Projection,Stage 2,512,128,10000,0.3277806430758646
+46,augmentation,augmentation,Projection,Stage 3a,512,256,10000,0.34094228538244287
+46,augmentation,augmentation,Projection,Stage 3b,512,256,10000,0.21514492230302984
+46,augmentation,augmentation,Projection,Stage 4,512,384,10000,0.17917099584996699
+46,augmentation,augmentation,Projection,Global pool,512,384,10000,0.17917099584996699
+46,augmentation,augmentation,Block 1,Stem,512,64,10000,0.45472321194109866
+46,augmentation,augmentation,Block 1,Stage 1,512,64,10000,0.43237108497764354
+46,augmentation,augmentation,Block 1,Stage 2,512,128,10000,0.36249957345938477
+46,augmentation,augmentation,Block 1,Stage 3a,512,256,10000,0.4044722838871669
+46,augmentation,augmentation,Block 1,Stage 3b,512,256,10000,0.3381606562178159
+46,augmentation,augmentation,Block 1,Stage 4,512,384,10000,0.28242825888371303
+46,augmentation,augmentation,Block 1,Global pool,512,384,10000,0.28242825888371303
+46,augmentation,augmentation,Block 2,Stem,512,64,10000,0.37349062892848345
+46,augmentation,augmentation,Block 2,Stage 1,512,64,10000,0.3853570666402568
+46,augmentation,augmentation,Block 2,Stage 2,512,128,10000,0.3618965423591834
+46,augmentation,augmentation,Block 2,Stage 3a,512,256,10000,0.43434283637708876
+46,augmentation,augmentation,Block 2,Stage 3b,512,256,10000,0.4827446387618788
+46,augmentation,augmentation,Block 2,Stage 4,512,384,10000,0.4091505441304453
+46,augmentation,augmentation,Block 2,Global pool,512,384,10000,0.4091505441304453
+46,augmentation,augmentation,Block 3,Stem,512,64,10000,0.16677768045673608
+46,augmentation,augmentation,Block 3,Stage 1,512,64,10000,0.19837538529846457
+46,augmentation,augmentation,Block 3,Stage 2,512,128,10000,0.223613721450372
+46,augmentation,augmentation,Block 3,Stage 3a,512,256,10000,0.3141349459444769
+46,augmentation,augmentation,Block 3,Stage 3b,512,256,10000,0.581062086257586
+46,augmentation,augmentation,Block 3,Stage 4,512,384,10000,0.47550690204413454
+46,augmentation,augmentation,Block 3,Global pool,512,384,10000,0.47550690204413454
+46,augmentation,augmentation,Output norm,Stem,512,64,10000,0.29909747531246245
+46,augmentation,augmentation,Output norm,Stage 1,512,64,10000,0.32583612080972557
+46,augmentation,augmentation,Output norm,Stage 2,512,128,10000,0.34543305201513635
+46,augmentation,augmentation,Output norm,Stage 3a,512,256,10000,0.4350866976118756
+46,augmentation,augmentation,Output norm,Stage 3b,512,256,10000,0.6417569604142878
+46,augmentation,augmentation,Output norm,Stage 4,512,384,10000,0.5709258723501918
+46,augmentation,augmentation,Output norm,Global pool,512,384,10000,0.5709258723501918
+46,augmentation_consistency,baseline,Projection,Stem,512,64,10000,0.5339881256740828
+46,augmentation_consistency,baseline,Projection,Stage 1,512,64,10000,0.524873258173962
+46,augmentation_consistency,baseline,Projection,Stage 2,512,128,10000,0.3657839428698939
+46,augmentation_consistency,baseline,Projection,Stage 3a,512,256,10000,0.39786603877827537
+46,augmentation_consistency,baseline,Projection,Stage 3b,512,256,10000,0.23843465373186104
+46,augmentation_consistency,baseline,Projection,Stage 4,512,384,10000,0.210606510619383
+46,augmentation_consistency,baseline,Projection,Global pool,512,384,10000,0.210606510619383
+46,augmentation_consistency,baseline,Block 1,Stem,512,64,10000,0.39020711063502095
+46,augmentation_consistency,baseline,Block 1,Stage 1,512,64,10000,0.44452213312692007
+46,augmentation_consistency,baseline,Block 1,Stage 2,512,128,10000,0.38068608802051185
+46,augmentation_consistency,baseline,Block 1,Stage 3a,512,256,10000,0.42781812802464353
+46,augmentation_consistency,baseline,Block 1,Stage 3b,512,256,10000,0.3900654419049327
+46,augmentation_consistency,baseline,Block 1,Stage 4,512,384,10000,0.3464591532448581
+46,augmentation_consistency,baseline,Block 1,Global pool,512,384,10000,0.3464591532448581
+46,augmentation_consistency,baseline,Block 2,Stem,512,64,10000,0.2526468947305701
+46,augmentation_consistency,baseline,Block 2,Stage 1,512,64,10000,0.3203159378727532
+46,augmentation_consistency,baseline,Block 2,Stage 2,512,128,10000,0.32109682841554776
+46,augmentation_consistency,baseline,Block 2,Stage 3a,512,256,10000,0.3821678490866867
+46,augmentation_consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4684203965557848
+46,augmentation_consistency,baseline,Block 2,Stage 4,512,384,10000,0.44124628324083315
+46,augmentation_consistency,baseline,Block 2,Global pool,512,384,10000,0.44124628324083315
+46,augmentation_consistency,baseline,Block 3,Stem,512,64,10000,0.16310000154187787
+46,augmentation_consistency,baseline,Block 3,Stage 1,512,64,10000,0.20290585419634852
+46,augmentation_consistency,baseline,Block 3,Stage 2,512,128,10000,0.2011347373831427
+46,augmentation_consistency,baseline,Block 3,Stage 3a,512,256,10000,0.24473567469794033
+46,augmentation_consistency,baseline,Block 3,Stage 3b,512,256,10000,0.3146686393943602
+46,augmentation_consistency,baseline,Block 3,Stage 4,512,384,10000,0.33522730607904133
+46,augmentation_consistency,baseline,Block 3,Global pool,512,384,10000,0.33522730607904133
+46,augmentation_consistency,baseline,Output norm,Stem,512,64,10000,0.17616670602997644
+46,augmentation_consistency,baseline,Output norm,Stage 1,512,64,10000,0.2154452661160801
+46,augmentation_consistency,baseline,Output norm,Stage 2,512,128,10000,0.2079320982778885
+46,augmentation_consistency,baseline,Output norm,Stage 3a,512,256,10000,0.2487374007611803
+46,augmentation_consistency,baseline,Output norm,Stage 3b,512,256,10000,0.28505060876667493
+46,augmentation_consistency,baseline,Output norm,Stage 4,512,384,10000,0.3062030412601805
+46,augmentation_consistency,baseline,Output norm,Global pool,512,384,10000,0.3062030412601805
+46,augmentation_consistency,augmentation,Projection,Stem,512,64,10000,0.5373844886016841
+46,augmentation_consistency,augmentation,Projection,Stage 1,512,64,10000,0.45731660091498194
+46,augmentation_consistency,augmentation,Projection,Stage 2,512,128,10000,0.3354113029609723
+46,augmentation_consistency,augmentation,Projection,Stage 3a,512,256,10000,0.3447167780760796
+46,augmentation_consistency,augmentation,Projection,Stage 3b,512,256,10000,0.2176729695883642
+46,augmentation_consistency,augmentation,Projection,Stage 4,512,384,10000,0.18084565125025215
+46,augmentation_consistency,augmentation,Projection,Global pool,512,384,10000,0.18084565125025215
+46,augmentation_consistency,augmentation,Block 1,Stem,512,64,10000,0.41261793328472396
+46,augmentation_consistency,augmentation,Block 1,Stage 1,512,64,10000,0.41044402006128744
+46,augmentation_consistency,augmentation,Block 1,Stage 2,512,128,10000,0.3559946720510305
+46,augmentation_consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.40760353632055824
+46,augmentation_consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.36517412917323344
+46,augmentation_consistency,augmentation,Block 1,Stage 4,512,384,10000,0.2968780762369666
+46,augmentation_consistency,augmentation,Block 1,Global pool,512,384,10000,0.2968780762369666
+46,augmentation_consistency,augmentation,Block 2,Stem,512,64,10000,0.273307940400669
+46,augmentation_consistency,augmentation,Block 2,Stage 1,512,64,10000,0.3073472218184026
+46,augmentation_consistency,augmentation,Block 2,Stage 2,512,128,10000,0.3037748132705717
+46,augmentation_consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.38907379657101626
+46,augmentation_consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.46261806722193916
+46,augmentation_consistency,augmentation,Block 2,Stage 4,512,384,10000,0.3868554597628796
+46,augmentation_consistency,augmentation,Block 2,Global pool,512,384,10000,0.3868554597628796
+46,augmentation_consistency,augmentation,Block 3,Stem,512,64,10000,0.1751551038143968
+46,augmentation_consistency,augmentation,Block 3,Stage 1,512,64,10000,0.19656391337329931
+46,augmentation_consistency,augmentation,Block 3,Stage 2,512,128,10000,0.1900207843114716
+46,augmentation_consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.2653741834227485
+46,augmentation_consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.3310685770037984
+46,augmentation_consistency,augmentation,Block 3,Stage 4,512,384,10000,0.3040555435205399
+46,augmentation_consistency,augmentation,Block 3,Global pool,512,384,10000,0.3040555435205399
+46,augmentation_consistency,augmentation,Output norm,Stem,512,64,10000,0.18924839204027397
+46,augmentation_consistency,augmentation,Output norm,Stage 1,512,64,10000,0.2087816505697115
+46,augmentation_consistency,augmentation,Output norm,Stage 2,512,128,10000,0.19666226690907074
+46,augmentation_consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.26448400771814223
+46,augmentation_consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.29771437692368274
+46,augmentation_consistency,augmentation,Output norm,Stage 4,512,384,10000,0.28417617451441424
+46,augmentation_consistency,augmentation,Output norm,Global pool,512,384,10000,0.28417617451441424
+47,baseline,baseline,Projection,Stem,512,64,10000,0.42826802388521906
+47,baseline,baseline,Projection,Stage 1,512,64,10000,0.3972143221738052
+47,baseline,baseline,Projection,Stage 2,512,128,10000,0.30987993280672205
+47,baseline,baseline,Projection,Stage 3a,512,256,10000,0.3458992386765902
+47,baseline,baseline,Projection,Stage 3b,512,256,10000,0.21145276620681722
+47,baseline,baseline,Projection,Stage 4,512,384,10000,0.19371892774504568
+47,baseline,baseline,Projection,Global pool,512,384,10000,0.19371892774504568
+47,baseline,baseline,Block 1,Stem,512,64,10000,0.3660947412759147
+47,baseline,baseline,Block 1,Stage 1,512,64,10000,0.38328855584854665
+47,baseline,baseline,Block 1,Stage 2,512,128,10000,0.33329598578927533
+47,baseline,baseline,Block 1,Stage 3a,512,256,10000,0.38818987683064266
+47,baseline,baseline,Block 1,Stage 3b,512,256,10000,0.34405869923040966
+47,baseline,baseline,Block 1,Stage 4,512,384,10000,0.32697286569265477
+47,baseline,baseline,Block 1,Global pool,512,384,10000,0.32697286569265477
+47,baseline,baseline,Block 2,Stem,512,64,10000,0.20190714577856372
+47,baseline,baseline,Block 2,Stage 1,512,64,10000,0.25503873658713777
+47,baseline,baseline,Block 2,Stage 2,512,128,10000,0.2614299528079406
+47,baseline,baseline,Block 2,Stage 3a,512,256,10000,0.3274434237518077
+47,baseline,baseline,Block 2,Stage 3b,512,256,10000,0.4756606191162519
+47,baseline,baseline,Block 2,Stage 4,512,384,10000,0.4653579396051839
+47,baseline,baseline,Block 2,Global pool,512,384,10000,0.4653579396051839
+47,baseline,baseline,Block 3,Stem,512,64,10000,0.09973462936457758
+47,baseline,baseline,Block 3,Stage 1,512,64,10000,0.13828886637205826
+47,baseline,baseline,Block 3,Stage 2,512,128,10000,0.1589386648209006
+47,baseline,baseline,Block 3,Stage 3a,512,256,10000,0.2062550203515681
+47,baseline,baseline,Block 3,Stage 3b,512,256,10000,0.39789052420788906
+47,baseline,baseline,Block 3,Stage 4,512,384,10000,0.4261186959781917
+47,baseline,baseline,Block 3,Global pool,512,384,10000,0.4261186959781917
+47,baseline,baseline,Output norm,Stem,512,64,10000,0.14026846569968446
+47,baseline,baseline,Output norm,Stage 1,512,64,10000,0.1850115666882571
+47,baseline,baseline,Output norm,Stage 2,512,128,10000,0.2008636938370721
+47,baseline,baseline,Output norm,Stage 3a,512,256,10000,0.2559880437108964
+47,baseline,baseline,Output norm,Stage 3b,512,256,10000,0.3910639647472459
+47,baseline,baseline,Output norm,Stage 4,512,384,10000,0.4416386088478859
+47,baseline,baseline,Output norm,Global pool,512,384,10000,0.4416386088478859
+47,baseline,augmentation,Projection,Stem,512,64,10000,0.41414684403651664
+47,baseline,augmentation,Projection,Stage 1,512,64,10000,0.3606585822848756
+47,baseline,augmentation,Projection,Stage 2,512,128,10000,0.2516866112505161
+47,baseline,augmentation,Projection,Stage 3a,512,256,10000,0.2942931951084548
+47,baseline,augmentation,Projection,Stage 3b,512,256,10000,0.18821490433938284
+47,baseline,augmentation,Projection,Stage 4,512,384,10000,0.16020652203888167
+47,baseline,augmentation,Projection,Global pool,512,384,10000,0.16020652203888167
+47,baseline,augmentation,Block 1,Stem,512,64,10000,0.36666138572967377
+47,baseline,augmentation,Block 1,Stage 1,512,64,10000,0.35303698465751043
+47,baseline,augmentation,Block 1,Stage 2,512,128,10000,0.284451493805952
+47,baseline,augmentation,Block 1,Stage 3a,512,256,10000,0.35072621336438714
+47,baseline,augmentation,Block 1,Stage 3b,512,256,10000,0.3243052374111538
+47,baseline,augmentation,Block 1,Stage 4,512,384,10000,0.2811049515503767
+47,baseline,augmentation,Block 1,Global pool,512,384,10000,0.2811049515503767
+47,baseline,augmentation,Block 2,Stem,512,64,10000,0.20790366319039744
+47,baseline,augmentation,Block 2,Stage 1,512,64,10000,0.23897591439649843
+47,baseline,augmentation,Block 2,Stage 2,512,128,10000,0.23404640789906211
+47,baseline,augmentation,Block 2,Stage 3a,512,256,10000,0.32879452979263796
+47,baseline,augmentation,Block 2,Stage 3b,512,256,10000,0.4820266536494765
+47,baseline,augmentation,Block 2,Stage 4,512,384,10000,0.4249491524957446
+47,baseline,augmentation,Block 2,Global pool,512,384,10000,0.4249491524957446
+47,baseline,augmentation,Block 3,Stem,512,64,10000,0.10161459495239233
+47,baseline,augmentation,Block 3,Stage 1,512,64,10000,0.1316217744299273
+47,baseline,augmentation,Block 3,Stage 2,512,128,10000,0.1445627062850813
+47,baseline,augmentation,Block 3,Stage 3a,512,256,10000,0.22766066602695612
+47,baseline,augmentation,Block 3,Stage 3b,512,256,10000,0.4335082629839455
+47,baseline,augmentation,Block 3,Stage 4,512,384,10000,0.41232398037164486
+47,baseline,augmentation,Block 3,Global pool,512,384,10000,0.41232398037164486
+47,baseline,augmentation,Output norm,Stem,512,64,10000,0.1457022621940971
+47,baseline,augmentation,Output norm,Stage 1,512,64,10000,0.1761112489299856
+47,baseline,augmentation,Output norm,Stage 2,512,128,10000,0.18383173994665863
+47,baseline,augmentation,Output norm,Stage 3a,512,256,10000,0.2651884215104113
+47,baseline,augmentation,Output norm,Stage 3b,512,256,10000,0.4191500686342227
+47,baseline,augmentation,Output norm,Stage 4,512,384,10000,0.4190700270415655
+47,baseline,augmentation,Output norm,Global pool,512,384,10000,0.4190700270415655
+47,exposure,baseline,Projection,Stem,512,64,10000,0.4575454259986102
+47,exposure,baseline,Projection,Stage 1,512,64,10000,0.42507671690493126
+47,exposure,baseline,Projection,Stage 2,512,128,10000,0.3299430516212118
+47,exposure,baseline,Projection,Stage 3a,512,256,10000,0.3613888205593286
+47,exposure,baseline,Projection,Stage 3b,512,256,10000,0.2148776833105964
+47,exposure,baseline,Projection,Stage 4,512,384,10000,0.1950653017699385
+47,exposure,baseline,Projection,Global pool,512,384,10000,0.1950653017699385
+47,exposure,baseline,Block 1,Stem,512,64,10000,0.4006863681198396
+47,exposure,baseline,Block 1,Stage 1,512,64,10000,0.4131504628143488
+47,exposure,baseline,Block 1,Stage 2,512,128,10000,0.3524222420925776
+47,exposure,baseline,Block 1,Stage 3a,512,256,10000,0.40434947227397133
+47,exposure,baseline,Block 1,Stage 3b,512,256,10000,0.3338083658088184
+47,exposure,baseline,Block 1,Stage 4,512,384,10000,0.31252912881827205
+47,exposure,baseline,Block 1,Global pool,512,384,10000,0.31252912881827205
+47,exposure,baseline,Block 2,Stem,512,64,10000,0.27211045779351845
+47,exposure,baseline,Block 2,Stage 1,512,64,10000,0.3229057865400016
+47,exposure,baseline,Block 2,Stage 2,512,128,10000,0.314705501200429
+47,exposure,baseline,Block 2,Stage 3a,512,256,10000,0.39202721460192735
+47,exposure,baseline,Block 2,Stage 3b,512,256,10000,0.5008953594324126
+47,exposure,baseline,Block 2,Stage 4,512,384,10000,0.48590444535428645
+47,exposure,baseline,Block 2,Global pool,512,384,10000,0.48590444535428645
+47,exposure,baseline,Block 3,Stem,512,64,10000,0.10035708622627466
+47,exposure,baseline,Block 3,Stage 1,512,64,10000,0.14094202071074402
+47,exposure,baseline,Block 3,Stage 2,512,128,10000,0.16143957710098875
+47,exposure,baseline,Block 3,Stage 3a,512,256,10000,0.21475370150398776
+47,exposure,baseline,Block 3,Stage 3b,512,256,10000,0.4409252726240255
+47,exposure,baseline,Block 3,Stage 4,512,384,10000,0.4576941052856657
+47,exposure,baseline,Block 3,Global pool,512,384,10000,0.4576941052856657
+47,exposure,baseline,Output norm,Stem,512,64,10000,0.16111841173274438
+47,exposure,baseline,Output norm,Stage 1,512,64,10000,0.21255523407488092
+47,exposure,baseline,Output norm,Stage 2,512,128,10000,0.2305016517640728
+47,exposure,baseline,Output norm,Stage 3a,512,256,10000,0.2954510095978921
+47,exposure,baseline,Output norm,Stage 3b,512,256,10000,0.45555203232553615
+47,exposure,baseline,Output norm,Stage 4,512,384,10000,0.509331576857043
+47,exposure,baseline,Output norm,Global pool,512,384,10000,0.509331576857043
+47,exposure,augmentation,Projection,Stem,512,64,10000,0.4453457591124998
+47,exposure,augmentation,Projection,Stage 1,512,64,10000,0.38994244263619326
+47,exposure,augmentation,Projection,Stage 2,512,128,10000,0.2691746775684733
+47,exposure,augmentation,Projection,Stage 3a,512,256,10000,0.310814338436824
+47,exposure,augmentation,Projection,Stage 3b,512,256,10000,0.19122993695671958
+47,exposure,augmentation,Projection,Stage 4,512,384,10000,0.1611981861588303
+47,exposure,augmentation,Projection,Global pool,512,384,10000,0.1611981861588303
+47,exposure,augmentation,Block 1,Stem,512,64,10000,0.4026669286357626
+47,exposure,augmentation,Block 1,Stage 1,512,64,10000,0.38421238679644937
+47,exposure,augmentation,Block 1,Stage 2,512,128,10000,0.30158330536162054
+47,exposure,augmentation,Block 1,Stage 3a,512,256,10000,0.36577290127379414
+47,exposure,augmentation,Block 1,Stage 3b,512,256,10000,0.3124659468609246
+47,exposure,augmentation,Block 1,Stage 4,512,384,10000,0.2682635535477366
+47,exposure,augmentation,Block 1,Global pool,512,384,10000,0.2682635535477366
+47,exposure,augmentation,Block 2,Stem,512,64,10000,0.2805251980478301
+47,exposure,augmentation,Block 2,Stage 1,512,64,10000,0.3047260241491146
+47,exposure,augmentation,Block 2,Stage 2,512,128,10000,0.2819906517720389
+47,exposure,augmentation,Block 2,Stage 3a,512,256,10000,0.38020359883871435
+47,exposure,augmentation,Block 2,Stage 3b,512,256,10000,0.4972491463185737
+47,exposure,augmentation,Block 2,Stage 4,512,384,10000,0.4389239812581068
+47,exposure,augmentation,Block 2,Global pool,512,384,10000,0.4389239812581068
+47,exposure,augmentation,Block 3,Stem,512,64,10000,0.10274527619757119
+47,exposure,augmentation,Block 3,Stage 1,512,64,10000,0.13488881241075265
+47,exposure,augmentation,Block 3,Stage 2,512,128,10000,0.1464197843797101
+47,exposure,augmentation,Block 3,Stage 3a,512,256,10000,0.23905337124576695
+47,exposure,augmentation,Block 3,Stage 3b,512,256,10000,0.4773046366345428
+47,exposure,augmentation,Block 3,Stage 4,512,384,10000,0.4459617335901621
+47,exposure,augmentation,Block 3,Global pool,512,384,10000,0.4459617335901621
+47,exposure,augmentation,Output norm,Stem,512,64,10000,0.16758851167696875
+47,exposure,augmentation,Output norm,Stage 1,512,64,10000,0.20367369245648256
+47,exposure,augmentation,Output norm,Stage 2,512,128,10000,0.21084762370767812
+47,exposure,augmentation,Output norm,Stage 3a,512,256,10000,0.30558318817138375
+47,exposure,augmentation,Output norm,Stage 3b,512,256,10000,0.48839721898229294
+47,exposure,augmentation,Output norm,Stage 4,512,384,10000,0.4931145204171335
+47,exposure,augmentation,Output norm,Global pool,512,384,10000,0.4931145204171335
+47,consistency,baseline,Projection,Stem,512,64,10000,0.5050730924224789
+47,consistency,baseline,Projection,Stage 1,512,64,10000,0.4704529361967471
+47,consistency,baseline,Projection,Stage 2,512,128,10000,0.3619121501482169
+47,consistency,baseline,Projection,Stage 3a,512,256,10000,0.39376654746168577
+47,consistency,baseline,Projection,Stage 3b,512,256,10000,0.22786427654740696
+47,consistency,baseline,Projection,Stage 4,512,384,10000,0.2066316978158268
+47,consistency,baseline,Projection,Global pool,512,384,10000,0.2066316978158268
+47,consistency,baseline,Block 1,Stem,512,64,10000,0.4080879204893741
+47,consistency,baseline,Block 1,Stage 1,512,64,10000,0.4275102038031287
+47,consistency,baseline,Block 1,Stage 2,512,128,10000,0.36535758328206297
+47,consistency,baseline,Block 1,Stage 3a,512,256,10000,0.4144753812275044
+47,consistency,baseline,Block 1,Stage 3b,512,256,10000,0.3436482976405917
+47,consistency,baseline,Block 1,Stage 4,512,384,10000,0.31762688118464255
+47,consistency,baseline,Block 1,Global pool,512,384,10000,0.31762688118464255
+47,consistency,baseline,Block 2,Stem,512,64,10000,0.23753954497726626
+47,consistency,baseline,Block 2,Stage 1,512,64,10000,0.28919042005494433
+47,consistency,baseline,Block 2,Stage 2,512,128,10000,0.28186282197938634
+47,consistency,baseline,Block 2,Stage 3a,512,256,10000,0.35657867620829725
+47,consistency,baseline,Block 2,Stage 3b,512,256,10000,0.47980629126726226
+47,consistency,baseline,Block 2,Stage 4,512,384,10000,0.4609479596031807
+47,consistency,baseline,Block 2,Global pool,512,384,10000,0.4609479596031807
+47,consistency,baseline,Block 3,Stem,512,64,10000,0.12978336822636655
+47,consistency,baseline,Block 3,Stage 1,512,64,10000,0.15235785492554352
+47,consistency,baseline,Block 3,Stage 2,512,128,10000,0.1458948759417262
+47,consistency,baseline,Block 3,Stage 3a,512,256,10000,0.18053917285822213
+47,consistency,baseline,Block 3,Stage 3b,512,256,10000,0.23162092740723622
+47,consistency,baseline,Block 3,Stage 4,512,384,10000,0.25948734143740687
+47,consistency,baseline,Block 3,Global pool,512,384,10000,0.25948734143740687
+47,consistency,baseline,Output norm,Stem,512,64,10000,0.16403399658846599
+47,consistency,baseline,Output norm,Stage 1,512,64,10000,0.18800234303168195
+47,consistency,baseline,Output norm,Stage 2,512,128,10000,0.17409572644739243
+47,consistency,baseline,Output norm,Stage 3a,512,256,10000,0.20720118070902566
+47,consistency,baseline,Output norm,Stage 3b,512,256,10000,0.22704554109120367
+47,consistency,baseline,Output norm,Stage 4,512,384,10000,0.24801863535889876
+47,consistency,baseline,Output norm,Global pool,512,384,10000,0.24801863535889876
+47,consistency,augmentation,Projection,Stem,512,64,10000,0.4935857834025688
+47,consistency,augmentation,Projection,Stage 1,512,64,10000,0.42958712147213174
+47,consistency,augmentation,Projection,Stage 2,512,128,10000,0.2922606678407336
+47,consistency,augmentation,Projection,Stage 3a,512,256,10000,0.3361193281636521
+47,consistency,augmentation,Projection,Stage 3b,512,256,10000,0.2017119986689219
+47,consistency,augmentation,Projection,Stage 4,512,384,10000,0.1704826494761361
+47,consistency,augmentation,Projection,Global pool,512,384,10000,0.1704826494761361
+47,consistency,augmentation,Block 1,Stem,512,64,10000,0.41410054797802504
+47,consistency,augmentation,Block 1,Stage 1,512,64,10000,0.3989112177281929
+47,consistency,augmentation,Block 1,Stage 2,512,128,10000,0.31317009529681283
+47,consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.379711522454752
+47,consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3204092154428194
+47,consistency,augmentation,Block 1,Stage 4,512,384,10000,0.2725301778514391
+47,consistency,augmentation,Block 1,Global pool,512,384,10000,0.2725301778514391
+47,consistency,augmentation,Block 2,Stem,512,64,10000,0.24930084294643298
+47,consistency,augmentation,Block 2,Stage 1,512,64,10000,0.2773398241631995
+47,consistency,augmentation,Block 2,Stage 2,512,128,10000,0.2581480377979132
+47,consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.35968335738995116
+47,consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.47636180072072115
+47,consistency,augmentation,Block 2,Stage 4,512,384,10000,0.41666416015699537
+47,consistency,augmentation,Block 2,Global pool,512,384,10000,0.41666416015699537
+47,consistency,augmentation,Block 3,Stem,512,64,10000,0.13765817470853994
+47,consistency,augmentation,Block 3,Stage 1,512,64,10000,0.15014620632687367
+47,consistency,augmentation,Block 3,Stage 2,512,128,10000,0.1379035011708438
+47,consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.1943027277067544
+47,consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.25022282811789426
+47,consistency,augmentation,Block 3,Stage 4,512,384,10000,0.2486372821470829
+47,consistency,augmentation,Block 3,Global pool,512,384,10000,0.2486372821470829
+47,consistency,augmentation,Output norm,Stem,512,64,10000,0.1743304332883526
+47,consistency,augmentation,Output norm,Stage 1,512,64,10000,0.1837225649620038
+47,consistency,augmentation,Output norm,Stage 2,512,128,10000,0.16254443767857651
+47,consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.21538670652262115
+47,consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.23900184585739234
+47,consistency,augmentation,Output norm,Stage 4,512,384,10000,0.2369870610414429
+47,consistency,augmentation,Output norm,Global pool,512,384,10000,0.2369870610414429
+47,augmentation,baseline,Projection,Stem,512,64,10000,0.5191311880520973
+47,augmentation,baseline,Projection,Stage 1,512,64,10000,0.48875824531498785
+47,augmentation,baseline,Projection,Stage 2,512,128,10000,0.38409160961171074
+47,augmentation,baseline,Projection,Stage 3a,512,256,10000,0.42183230223130685
+47,augmentation,baseline,Projection,Stage 3b,512,256,10000,0.24146542774908897
+47,augmentation,baseline,Projection,Stage 4,512,384,10000,0.21416919324913675
+47,augmentation,baseline,Projection,Global pool,512,384,10000,0.21416919324913675
+47,augmentation,baseline,Block 1,Stem,512,64,10000,0.44757557034664286
+47,augmentation,baseline,Block 1,Stage 1,512,64,10000,0.4626343824406659
+47,augmentation,baseline,Block 1,Stage 2,512,128,10000,0.40311244101859656
+47,augmentation,baseline,Block 1,Stage 3a,512,256,10000,0.4581565523528565
+47,augmentation,baseline,Block 1,Stage 3b,512,256,10000,0.3569992737431681
+47,augmentation,baseline,Block 1,Stage 4,512,384,10000,0.3232565989588847
+47,augmentation,baseline,Block 1,Global pool,512,384,10000,0.3232565989588847
+47,augmentation,baseline,Block 2,Stem,512,64,10000,0.35763138192741833
+47,augmentation,baseline,Block 2,Stage 1,512,64,10000,0.40435288896182153
+47,augmentation,baseline,Block 2,Stage 2,512,128,10000,0.38526271648971555
+47,augmentation,baseline,Block 2,Stage 3a,512,256,10000,0.45918039542547523
+47,augmentation,baseline,Block 2,Stage 3b,512,256,10000,0.4955913346569247
+47,augmentation,baseline,Block 2,Stage 4,512,384,10000,0.465664414422672
+47,augmentation,baseline,Block 2,Global pool,512,384,10000,0.465664414422672
+47,augmentation,baseline,Block 3,Stem,512,64,10000,0.1597746726376922
+47,augmentation,baseline,Block 3,Stage 1,512,64,10000,0.22053496300622577
+47,augmentation,baseline,Block 3,Stage 2,512,128,10000,0.2398302043548079
+47,augmentation,baseline,Block 3,Stage 3a,512,256,10000,0.3144247025189655
+47,augmentation,baseline,Block 3,Stage 3b,512,256,10000,0.5586230555337489
+47,augmentation,baseline,Block 3,Stage 4,512,384,10000,0.5240306964104159
+47,augmentation,baseline,Block 3,Global pool,512,384,10000,0.5240306964104159
+47,augmentation,baseline,Output norm,Stem,512,64,10000,0.29045477880183274
+47,augmentation,baseline,Output norm,Stage 1,512,64,10000,0.36431389218606985
+47,augmentation,baseline,Output norm,Stage 2,512,128,10000,0.37227526913614334
+47,augmentation,baseline,Output norm,Stage 3a,512,256,10000,0.47772614232624305
+47,augmentation,baseline,Output norm,Stage 3b,512,256,10000,0.623607544971835
+47,augmentation,baseline,Output norm,Stage 4,512,384,10000,0.633661512599154
+47,augmentation,baseline,Output norm,Global pool,512,384,10000,0.633661512599154
+47,augmentation,augmentation,Projection,Stem,512,64,10000,0.5101935655928161
+47,augmentation,augmentation,Projection,Stage 1,512,64,10000,0.45119133107921944
+47,augmentation,augmentation,Projection,Stage 2,512,128,10000,0.3152444601383292
+47,augmentation,augmentation,Projection,Stage 3a,512,256,10000,0.3657001963052008
+47,augmentation,augmentation,Projection,Stage 3b,512,256,10000,0.21271439168799416
+47,augmentation,augmentation,Projection,Stage 4,512,384,10000,0.17655894549269602
+47,augmentation,augmentation,Projection,Global pool,512,384,10000,0.17655894549269602
+47,augmentation,augmentation,Block 1,Stem,512,64,10000,0.44821521787624663
+47,augmentation,augmentation,Block 1,Stage 1,512,64,10000,0.4373869271288125
+47,augmentation,augmentation,Block 1,Stage 2,512,128,10000,0.351838702503885
+47,augmentation,augmentation,Block 1,Stage 3a,512,256,10000,0.42114056051281695
+47,augmentation,augmentation,Block 1,Stage 3b,512,256,10000,0.3296136476962393
+47,augmentation,augmentation,Block 1,Stage 4,512,384,10000,0.2772395858626663
+47,augmentation,augmentation,Block 1,Global pool,512,384,10000,0.2772395858626663
+47,augmentation,augmentation,Block 2,Stem,512,64,10000,0.361717612639821
+47,augmentation,augmentation,Block 2,Stage 1,512,64,10000,0.3852086623600673
+47,augmentation,augmentation,Block 2,Stage 2,512,128,10000,0.3459617810190044
+47,augmentation,augmentation,Block 2,Stage 3a,512,256,10000,0.44412064169425525
+47,augmentation,augmentation,Block 2,Stage 3b,512,256,10000,0.48271246481588265
+47,augmentation,augmentation,Block 2,Stage 4,512,384,10000,0.41576222528370527
+47,augmentation,augmentation,Block 2,Global pool,512,384,10000,0.41576222528370527
+47,augmentation,augmentation,Block 3,Stem,512,64,10000,0.1650843931646137
+47,augmentation,augmentation,Block 3,Stage 1,512,64,10000,0.20896193687096365
+47,augmentation,augmentation,Block 3,Stage 2,512,128,10000,0.21647096610667205
+47,augmentation,augmentation,Block 3,Stage 3a,512,256,10000,0.31960873486438784
+47,augmentation,augmentation,Block 3,Stage 3b,512,256,10000,0.5831535261270537
+47,augmentation,augmentation,Block 3,Stage 4,512,384,10000,0.49818169413096697
+47,augmentation,augmentation,Block 3,Global pool,512,384,10000,0.49818169413096697
+47,augmentation,augmentation,Output norm,Stem,512,64,10000,0.29910180557229804
+47,augmentation,augmentation,Output norm,Stage 1,512,64,10000,0.34065059583309854
+47,augmentation,augmentation,Output norm,Stage 2,512,128,10000,0.3343845715096229
+47,augmentation,augmentation,Output norm,Stage 3a,512,256,10000,0.45845231710819373
+47,augmentation,augmentation,Output norm,Stage 3b,512,256,10000,0.6382578931263505
+47,augmentation,augmentation,Output norm,Stage 4,512,384,10000,0.5896362411562743
+47,augmentation,augmentation,Output norm,Global pool,512,384,10000,0.5896362411562743
+47,augmentation_consistency,baseline,Projection,Stem,512,64,10000,0.5410481236952783
+47,augmentation_consistency,baseline,Projection,Stage 1,512,64,10000,0.5069879725128923
+47,augmentation_consistency,baseline,Projection,Stage 2,512,128,10000,0.3959393793920898
+47,augmentation_consistency,baseline,Projection,Stage 3a,512,256,10000,0.43035151090137286
+47,augmentation_consistency,baseline,Projection,Stage 3b,512,256,10000,0.24254979061523507
+47,augmentation_consistency,baseline,Projection,Stage 4,512,384,10000,0.2155621238027434
+47,augmentation_consistency,baseline,Projection,Global pool,512,384,10000,0.2155621238027434
+47,augmentation_consistency,baseline,Block 1,Stem,512,64,10000,0.41611033081097004
+47,augmentation_consistency,baseline,Block 1,Stage 1,512,64,10000,0.44998634722575753
+47,augmentation_consistency,baseline,Block 1,Stage 2,512,128,10000,0.4005311335911855
+47,augmentation_consistency,baseline,Block 1,Stage 3a,512,256,10000,0.45483299867884946
+47,augmentation_consistency,baseline,Block 1,Stage 3b,512,256,10000,0.38309187053207083
+47,augmentation_consistency,baseline,Block 1,Stage 4,512,384,10000,0.34296186715001054
+47,augmentation_consistency,baseline,Block 1,Global pool,512,384,10000,0.34296186715001054
+47,augmentation_consistency,baseline,Block 2,Stem,512,64,10000,0.2620120048594483
+47,augmentation_consistency,baseline,Block 2,Stage 1,512,64,10000,0.32086471019202295
+47,augmentation_consistency,baseline,Block 2,Stage 2,512,128,10000,0.32095723032439005
+47,augmentation_consistency,baseline,Block 2,Stage 3a,512,256,10000,0.39307450377972264
+47,augmentation_consistency,baseline,Block 2,Stage 3b,512,256,10000,0.4806072036575478
+47,augmentation_consistency,baseline,Block 2,Stage 4,512,384,10000,0.4446072521937868
+47,augmentation_consistency,baseline,Block 2,Global pool,512,384,10000,0.4446072521937868
+47,augmentation_consistency,baseline,Block 3,Stem,512,64,10000,0.1754082703846033
+47,augmentation_consistency,baseline,Block 3,Stage 1,512,64,10000,0.20778656181371435
+47,augmentation_consistency,baseline,Block 3,Stage 2,512,128,10000,0.20484388869563375
+47,augmentation_consistency,baseline,Block 3,Stage 3a,512,256,10000,0.2526092448519826
+47,augmentation_consistency,baseline,Block 3,Stage 3b,512,256,10000,0.31899344402963004
+47,augmentation_consistency,baseline,Block 3,Stage 4,512,384,10000,0.32885587982484876
+47,augmentation_consistency,baseline,Block 3,Global pool,512,384,10000,0.32885587982484876
+47,augmentation_consistency,baseline,Output norm,Stem,512,64,10000,0.18798325816263614
+47,augmentation_consistency,baseline,Output norm,Stage 1,512,64,10000,0.21849356747267423
+47,augmentation_consistency,baseline,Output norm,Stage 2,512,128,10000,0.21056104387992436
+47,augmentation_consistency,baseline,Output norm,Stage 3a,512,256,10000,0.2558881088449036
+47,augmentation_consistency,baseline,Output norm,Stage 3b,512,256,10000,0.28927313530345466
+47,augmentation_consistency,baseline,Output norm,Stage 4,512,384,10000,0.303923904854714
+47,augmentation_consistency,baseline,Output norm,Global pool,512,384,10000,0.303923904854714
+47,augmentation_consistency,augmentation,Projection,Stem,512,64,10000,0.5307078982470281
+47,augmentation_consistency,augmentation,Projection,Stage 1,512,64,10000,0.4667298165097684
+47,augmentation_consistency,augmentation,Projection,Stage 2,512,128,10000,0.3219511780102288
+47,augmentation_consistency,augmentation,Projection,Stage 3a,512,256,10000,0.3709658556417833
+47,augmentation_consistency,augmentation,Projection,Stage 3b,512,256,10000,0.21402282049478558
+47,augmentation_consistency,augmentation,Projection,Stage 4,512,384,10000,0.17753016248570141
+47,augmentation_consistency,augmentation,Projection,Global pool,512,384,10000,0.17753016248570141
+47,augmentation_consistency,augmentation,Block 1,Stem,512,64,10000,0.42588554782049587
+47,augmentation_consistency,augmentation,Block 1,Stage 1,512,64,10000,0.43103433208679043
+47,augmentation_consistency,augmentation,Block 1,Stage 2,512,128,10000,0.3551108575737425
+47,augmentation_consistency,augmentation,Block 1,Stage 3a,512,256,10000,0.4275255026367371
+47,augmentation_consistency,augmentation,Block 1,Stage 3b,512,256,10000,0.3565631076155474
+47,augmentation_consistency,augmentation,Block 1,Stage 4,512,384,10000,0.2960651194951925
+47,augmentation_consistency,augmentation,Block 1,Global pool,512,384,10000,0.2960651194951925
+47,augmentation_consistency,augmentation,Block 2,Stem,512,64,10000,0.27252922769675103
+47,augmentation_consistency,augmentation,Block 2,Stage 1,512,64,10000,0.31529535200539727
+47,augmentation_consistency,augmentation,Block 2,Stage 2,512,128,10000,0.30163919146708207
+47,augmentation_consistency,augmentation,Block 2,Stage 3a,512,256,10000,0.39734285037981526
+47,augmentation_consistency,augmentation,Block 2,Stage 3b,512,256,10000,0.4687454547252933
+47,augmentation_consistency,augmentation,Block 2,Stage 4,512,384,10000,0.3997278687410935
+47,augmentation_consistency,augmentation,Block 2,Global pool,512,384,10000,0.3997278687410935
+47,augmentation_consistency,augmentation,Block 3,Stem,512,64,10000,0.18338472102464345
+47,augmentation_consistency,augmentation,Block 3,Stage 1,512,64,10000,0.2081360378731556
+47,augmentation_consistency,augmentation,Block 3,Stage 2,512,128,10000,0.1966805772867882
+47,augmentation_consistency,augmentation,Block 3,Stage 3a,512,256,10000,0.2707532171244115
+47,augmentation_consistency,augmentation,Block 3,Stage 3b,512,256,10000,0.33177796862514786
+47,augmentation_consistency,augmentation,Block 3,Stage 4,512,384,10000,0.3100133692533372
+47,augmentation_consistency,augmentation,Block 3,Global pool,512,384,10000,0.3100133692533372
+47,augmentation_consistency,augmentation,Output norm,Stem,512,64,10000,0.19714188546274233
+47,augmentation_consistency,augmentation,Output norm,Stage 1,512,64,10000,0.21725757061883974
+47,augmentation_consistency,augmentation,Output norm,Stage 2,512,128,10000,0.20069476246983814
+47,augmentation_consistency,augmentation,Output norm,Stage 3a,512,256,10000,0.2697254597350517
+47,augmentation_consistency,augmentation,Output norm,Stage 3b,512,256,10000,0.300104854833148
+47,augmentation_consistency,augmentation,Output norm,Stage 4,512,384,10000,0.2882860943145472
+47,augmentation_consistency,augmentation,Output norm,Global pool,512,384,10000,0.2882860943145472

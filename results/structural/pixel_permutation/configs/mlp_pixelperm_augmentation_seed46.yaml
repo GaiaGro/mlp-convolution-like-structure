@@ -1,0 +1,151 @@
+run_name: mlp_pixelperm_augmentation_seed46
+model: mlp
+condition: augmentation
+seed: 46
+consistency_weight: 0.0
+variance_covariance_weight: 0.0
+pixel_permutation_seed: 0
+variance_target: 1.0
+variance_epsilon: 0.0001
+covariance_coefficient: 0.04
+epochs: 100
+batch_size: 256
+learning_rate: 0.0003
+weight_decay: 0.0001
+parameter_count: 4733962
+device: cuda
+experiment_config:
+  project:
+    name: mlp_convolution_like_structure
+    protocol_version: 1
+  dataset:
+    name: CIFAR10
+    root: data
+    split_seed: 2026
+    train_size: 45000
+    validation_size: 5000
+    normalization_mean:
+    - 0.4914
+    - 0.4822
+    - 0.4465
+    normalization_std:
+    - 0.247
+    - 0.2435
+    - 0.2616
+  mlp:
+    hidden_width: 512
+    residual_blocks: 3
+    expansion_ratio: 2
+    dropout: 0.1
+    activation: gelu
+    normalization: layer_norm
+  cnn:
+    channels:
+    - 64
+    - 128
+    - 256
+    - 384
+    blocks_per_stage:
+    - 1
+    - 1
+    - 2
+    - 1
+    activation: gelu
+    normalization: batch_norm
+  training:
+    epochs: 200
+    epoch_candidates:
+    - 100
+    - 200
+    - 300
+    batch_size: 256
+    optimizer: adamw
+    learning_rate_candidates:
+    - 0.0003
+    - 0.001
+    weight_decay_candidates:
+    - 0.0001
+    - 0.0005
+    warmup_epochs: 10
+    scheduler: cosine
+    label_smoothing: 0.1
+    mixed_precision: true
+  translation:
+    training_padding_modes:
+    - reflect
+    - replicate
+    - circular
+    primary_evaluation_padding_modes:
+    - reflect
+    - replicate
+    - circular
+    diagnostic_padding_mode: zero
+    validation_aggregation: worst_padding
+    train_shifts:
+    - - -2
+      - 0
+    - - -1
+      - 0
+    - - 1
+      - 0
+    - - 2
+      - 0
+    - - 0
+      - -2
+    - - 0
+      - -1
+    - - 0
+      - 1
+    - - 0
+      - 2
+    validation_distances:
+    - 1
+    - 2
+    test_distances:
+    - 1
+    - 2
+    - 4
+  consistency:
+    divergence: jensen_shannon
+    lambda_candidates:
+    - 0.5
+    - 1.0
+    - 2.0
+    - 5.0
+    - 7.5
+    - 10.0
+    rho_candidates:
+    - 0.0
+    - 0.05
+    - 0.1
+    - 0.2
+    variance_target: 1.0
+    variance_epsilon: 0.0001
+    covariance_coefficient: 0.04
+    paired_stochastic_masks: true
+    development_seeds:
+    - 11
+    - 22
+    maximum_clean_accuracy_drop_pp: 1.0
+    minimum_effective_rank_retention: 0.8
+    minimum_active_dimension_fraction_retention: 0.8
+    active_dimension_variance_threshold_fraction: 0.01
+    boundary_extension:
+      lambda_if_10_selected: 15.0
+      rho_if_0p2_selected: 0.4
+  final_seeds:
+  - 43
+  - 44
+  - 45
+  - 46
+  - 47
+  conditions:
+    mlp:
+    - baseline
+    - exposure
+    - consistency
+    - augmentation
+    - augmentation_consistency
+    cnn:
+    - baseline
+    - augmentation

@@ -1,0 +1,39 @@
+version: 1
+
+first_layer:
+  parameter: input_projection.weight
+  image_shape: [3, 32, 32]
+  energy: squared_weight
+
+locality:
+  window_sizes: [3, 5, 7, 9]
+  primary_window_size: 7
+  score: maximum_window_energy_fraction
+
+template_reuse:
+  patch_size: 7
+  templates: 16
+  fitting: sign_invariant_spherical_kmeans
+  folds: 5
+  repetitions: 5
+  initializations: 10
+  maximum_iterations: 100
+  tolerance: 0.000001
+  seed: 2026
+  conditional_score: squared_cosine_similarity
+  primary_score: total_energy_reconstruction_fraction
+
+controls:
+  random_initialization_seeds: [43, 44, 45, 46, 47]
+  spatial_shuffle:
+    repetitions: 20
+    seed: 2026
+    preserve_rgb_triplets: true
+    independent_per_neuron: true
+  pixel_permutation:
+    report_model_coordinates: true
+    report_original_image_coordinates: true
+
+aggregation:
+  experimental_unit: training_seed
+  inference: paired_across_seeds

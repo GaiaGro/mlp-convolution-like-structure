@@ -1,0 +1,15 @@
+pixel_permutation:
+  spatial_seed: 0
+  preserve_rgb_triplets: true
+  application_order: after_image_space_transforms
+  conditions:
+    - baseline
+    - exposure
+    - consistency
+    - augmentation
+    - augmentation_consistency
+  final_seeds: [43, 44, 45, 46, 47]
+
+runtime:
+  validation_interval: 5
+  num_workers: 4

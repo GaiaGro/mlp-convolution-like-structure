@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.env
+.venv/
+
+/data/
+out/
+err/
+
+*.pt
+*.pth
+*.npz
+
+results/**/checkpoints/
+results/**/predictions/
