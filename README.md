@@ -13,4 +13,6 @@ Five MLP training conditions are evaluated across five final seeds: `baseline`, 
 
 The project includes structural controls, sensitivity analyses, template-family visualizations, linear CKA, translation evaluation and confusion-matrix diagnostics.
 
+An exploratory secondary analysis relates learned structure to held-out translation robustness. The association is driven by differences between training conditions and is not interpreted as evidence of causality.
+
 The complete methodology is documented in `docs/protocol.md`.

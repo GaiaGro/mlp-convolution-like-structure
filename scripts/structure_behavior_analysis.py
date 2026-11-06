@@ -445,8 +445,8 @@ def make_figure(table):
         axis.set_xlabel(x_label)
 
         axis.set_ylabel(
-            "Held-out distance-4 "
-            "/ clean accuracy"
+            "Held-out distance-4 accuracy "
+            "retention (%)"
         )
 
         axis.grid(
