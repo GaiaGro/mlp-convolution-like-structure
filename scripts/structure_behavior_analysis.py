@@ -374,20 +374,35 @@ def load_table():
     )
 
 
-def make_figure(table):
-    figure, axes = plt.subplots(
-        1,
-        2,
-        figsize=(11.8, 5.2),
-    )
+def make_figure(table, vertical=False):
+    if vertical:
+        figure, axes = plt.subplots(
+            2,
+            1,
+            figsize=(6.4, 8.4),
+        )
 
-    figure.subplots_adjust(
-        left=0.08,
-        right=0.98,
-        bottom=0.22,
-        top=0.84,
-        wspace=0.26,
-    )
+        figure.subplots_adjust(
+            left=0.16,
+            right=0.97,
+            bottom=0.08,
+            top=0.91,
+            hspace=0.32,
+        )
+    else:
+        figure, axes = plt.subplots(
+            1,
+            2,
+            figsize=(11.8, 5.2),
+        )
+
+        figure.subplots_adjust(
+            left=0.08,
+            right=0.98,
+            bottom=0.22,
+            top=0.84,
+            wspace=0.26,
+        )
 
     behavior = "distance4_retention"
 
@@ -464,16 +479,19 @@ def make_figure(table):
 
     figure_directory = Path("figures/structural_results")
     figure_directory.mkdir(parents=True, exist_ok=True)
+
+    suffix = "" if vertical else "_horizontal"
+
     figure.savefig(
         figure_directory
-        / "figure_structure_behavior_associations.png",
+        / f"figure_structure_behavior_associations{suffix}.png",
         dpi=300,
         bbox_inches="tight",
     )
 
     figure.savefig(
         figure_directory
-        / "figure_structure_behavior_associations.pdf",
+        / f"figure_structure_behavior_associations{suffix}.pdf",
         bbox_inches="tight",
     )
 
@@ -600,7 +618,7 @@ def main():
         index=False,
     )
 
-    make_figure(table)
+    make_figure(table, vertical=True)
 
     primary = associations[
         associations["analysis"]
